@@ -10,7 +10,7 @@
     $pageTitle = 'MIT Global Startup Workshop 2020';
     $metaDescription = 'MIT Global Startup Workshop is an annual conference that aims to accelerate entrepreneurial ecosystems around the world, through workshops, mentorship and skills training.'; 
     $specificKeywords = 'entrepreneurial experience';
-    $headerMainPageImageSrc = 'images/splash/logo.png';
+    $headerMainPageImageSrc = 'assets/images/splash/logo.png';
     $headerTitle = 'MIT Global Startup Workshop';
     $headerSubTitle = 'GSW 2020';
     $classIndexMenu = 'active';
