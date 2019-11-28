@@ -177,27 +177,11 @@ p {
 
 .brand h1,
 h5 {
-    font-size: 4vh;
+    font-size: 3.5vh;
 }
 
 .brand img {
-    width: 80%;
-}
-
-.brand-logo {
-    position: absolute;
-    bottom: 10%;
-    text-align: center;
-    /* left: 50%; */
-    left: 0;
-    right: 0;
-    font-size: 0.6em;
-    z-index: 20;
-    visibility: hidden;
-}
-
-.brand-logo img {
-    width: 80%;
+    width: 100%;
 }
 
 @media only screen and (max-width: 479px) {

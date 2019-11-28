@@ -45,7 +45,7 @@ function auto_version($file)
             <i><h1>THE MIT GLOBAL STARTUP WORKSHOP</h1></i>
             <br><br>
             <img src="assets/images/splash/in_the_alps.png"/>
-            <h5> March 24 & 24, 2020</h5>
+            <h5> March 23 & 24, 2020</h5>
             <i><h4> Grenoble, France</h4></i>
         </div>
 
@@ -56,7 +56,7 @@ function auto_version($file)
 </div>
 
 <div class="section">
-    <div class="text-center">
+    <!-- <div class="text-center">
         <i> <p style="font-size: 4vh"> GET NOTIFIED</p> </i>
     </div>
 
@@ -66,7 +66,7 @@ function auto_version($file)
 
     <div class="text-center splash-logo-container">
         <img src="assets/images/splash/gem.png"/>
-    </div>
+    </div> -->
 
 </div>
 

@@ -22,6 +22,6 @@
     
     include('templates/nav-bar.php');
     include('templates/header.php');
-    // include('templates/footer.php');
+    include('templates/footer.php');
 ?>
 <!-- <br /><br />
