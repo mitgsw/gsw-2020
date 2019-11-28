@@ -45,8 +45,8 @@ function auto_version($file)
             <i><h1>THE MIT GLOBAL STARTUP WORKSHOP</h1></i>
             <br><br>
             <img src="assets/images/splash/in_the_alps.png"/>
-            <h5> March 23 & 24, 2020</h5>
-            <i><h4> Grenoble, France</h4></i>
+            <h5 style="color: black"> March 23 & 24, 2020</h5>
+            <i><h4 style="color: black"> Grenoble, France</h4></i>
         </div>
 
     </div>

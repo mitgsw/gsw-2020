@@ -108,9 +108,9 @@
                 <li><a href="sp-index.php">Español</a></li>
             </ul> -->
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <li><a href="index.php">ABOUT<span class="sr-only">(current)</span></a></li>
+            <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
             <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li>
-            <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li>
+            <!-- <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li> -->
             </ul>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
