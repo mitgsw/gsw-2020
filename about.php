@@ -45,6 +45,14 @@
     <br><br>
 
     <h4> Check out our map of our previous venues!</h4>
+    <br><br>
+
+    <div class="img-container">
+
+        <img src="assets/images/splash/white-map.png" />
+
+    </div>
+
 
 
 </div>
