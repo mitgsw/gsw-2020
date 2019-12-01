@@ -49,7 +49,7 @@
 
     <div class="img-container">
 
-        <img src="assets/images/splash/white-map.png" />
+        <img src="assets/images/splash/map_hires.png" />
 
     </div>
 
