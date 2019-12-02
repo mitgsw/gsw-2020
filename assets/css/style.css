@@ -181,6 +181,28 @@ h5 {
     font-size: 3.5vh;
 }
 
+.brand h4,
+h5 {
+    color: white
+}
+
+@media only screen and (max-width: 479px) {
+    .brand {
+        position: absolute;
+        padding-top: 30%;
+        /* background-color: white; */
+    }
+    .brand h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+        color: white;
+    }
+}
+
 .brand img {
     width: 100%;
 }
