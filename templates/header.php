@@ -56,7 +56,7 @@ function auto_version($file)
 </div>
 
 <div class="section">
-    <!-- <div class="text-center">
+    <div class="text-center">
         <i> <p style="font-size: 4vh"> GET NOTIFIED</p> </i>
     </div>
 
@@ -65,8 +65,10 @@ function auto_version($file)
     </div>
 
     <div class="text-center splash-logo-container">
-        <img src="assets/images/splash/gem.png"/>
-    </div> -->
+        <p>
+        More information coming soon! Please click <a href='about.php'> here </a> to learn more about the MIT GSW.
+        </p>
+    </div>
 
 </div>
 

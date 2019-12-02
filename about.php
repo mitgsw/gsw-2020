@@ -44,7 +44,7 @@
 
     <br><br>
 
-    <h4> Check out our map of our previous venues!</h4>
+    <h4> View our Previous Conference Locations:</h4>
     <br><br>
 
     <div class="img-container">

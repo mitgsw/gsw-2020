@@ -158,7 +158,7 @@ p {
 
 .splash-logo-container {
     text-align: center;
-    padding: 10%;
+    /* padding: 10%; */
 }
 
 .splash-logo-container img {
@@ -1658,7 +1658,7 @@ p {
 /* FOR MOBILE */
 
 #navbar-logo {
-    height: 15vh;
+    height: 10vh;
     padding: 10px;
     padding-top: 0px;
     transition: height 0.3s ease-out;
