@@ -4,7 +4,7 @@
 ?>
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174054-2"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
@@ -13,14 +13,16 @@
 
     gtag('config', 'UA-130174054-2');
     gtag('send', 'pageview');
-    </script>
+    </script> -->
 
 </head>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('assets/images/splash/background_img.png');">
-    <h1 class="parallax-text">
-        <i>ABOUT</i>
-    </h1>
+<div class="parallax-window header" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_2.JPG');">
+    <div class="header-overlay">
+        <h1 class="parallax-text">
+            <i>ABOUT</i>
+        </h1>
+    </div>  
 </div>
 
 <body style="background-color: black">

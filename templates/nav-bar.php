@@ -40,7 +40,7 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -48,7 +48,13 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+    <script src="assets/js/papaparse.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="assets/js/jquery.min.js"></script> 
+
 </head>
+
 <body>
 <nav class="navbar navbar-default navbar-fixed-top" id="nav" style="padding-top: 2%">
     <div class="container-fluid">
@@ -109,6 +115,7 @@
             </ul> -->
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
+            <li><a href="team.php">Team</a></li>
             <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li>
             <!-- <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li> -->
             </ul>
