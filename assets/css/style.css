@@ -855,6 +855,7 @@ p {
     text-align: justify;
     text-justify: inter-word;
     font-family: "Helvetica Neue Ultra Light";
+    font-style: italic;
 }
 
 @media only screen and (max-width: 480px) {
@@ -922,6 +923,16 @@ p {
     max-height: 70%;
 }
 
+.comp-reel {
+    outline: 1px solid white;
+    height: 100vh;
+}
+
+.comp-reel h6 {
+    padding-top: 30%;
+    font-size: 2em;
+}
+
 .competition-type:hover,
 .competition-type:focus {
     font-size: 0.95em;
@@ -946,9 +957,9 @@ p {
 }
 
 .competition-slogan {
-    color: #dd4f33;
-    font-weight: 500;
-    font-size: 1em;
+    font-size: 2em;
+    font-family: "Helvetica Neue Condensed Black";
+    text-transform: initial;
 }
 
 .competition-rules {
@@ -1710,6 +1721,45 @@ footer-title a:focus {
         font-size: 20px;
         padding: 10px 12px;
     }
+}
+
+.register-btn,
+a.register-btn-large {
+    background-color: transparent;
+    /* Green */
+    /* border: white; */
+    border: 1px solid white;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Helvetica Neue Ultra Light";
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.register-btn:hover,
+a.register-btn-large:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 2px solid white;
+    padding: 10px 30px;
+    color: black;
+}
+
+a.register-btn-large {
+    padding: 15px 80px;
+    border-radius: 40px;
+}
+
+a.register-btn-large:hover {
+    padding: 15px 80px;
+}
+
+a.register-btn-large {
+    font-size: 3em;
 }
 
 .full-width {

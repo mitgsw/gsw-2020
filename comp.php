@@ -19,24 +19,27 @@
 <div class="section">
     
     <div class="row">
-        <div class="col-md-4 text-center">
-            <div class="comp-title">
-                <h2>Startup Showcase</h2>
+        <a href="showcase.php">
+            <div class="col-md-4 text-center">
+                <div class="comp-title">
+                    <h2>Startup Showcase</h2>
+                </div>
+                <div class="comp-image">
+                    <img src="assets/images/comp/startup_showcase.png">
+                </div>
+                <div class="comp-info">
+                    <p>
+                    Connect with key players in the
+                    startup ecosystem and see what our
+                    Startup Showcase finalists are up to
+                    in this special event. The showcase is
+                    an incredible networking opportunity
+                    and it’s open to all GSW attendees.
+                    </p>
+                </div>
             </div>
-            <div class="comp-image">
-                <img src="assets/images/comp/startup_showcase.png">
-            </div>
-            <div class="comp-info">
-                <p>
-                Connect with key players in the
-                startup ecosystem and see what our
-                Startup Showcase finalists are up to
-                in this special event. The showcase is
-                an incredible networking opportunity
-                and it’s open to all GSW attendees.
-                </p>
-            </div>
-        </div>
+        </a>
+        
         <div class="col-md-4 text-center">
             <div class="comp-title">
                 <h2>Elevator Pitch</h2>
