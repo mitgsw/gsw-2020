@@ -15,7 +15,6 @@
 
 <div class="section">
     <!-- <br> -->
-    
     <div class="col-lg-12 comp-content" id="directors-expanded">
         <div class="section-header section-header-page" style="color: white">Co-Directors</div>
         <div class="row speaker-expanded-bio">

@@ -48,7 +48,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    
+
     <script src="assets/js/papaparse.min.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/jquery.min.js"></script> 
@@ -115,6 +115,7 @@
             </ul> -->
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
+            <li><a href="comp.php">Competitions</a></li>
             <li><a href="team.php">Team</a></li>
             <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li>
             <!-- <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li> -->

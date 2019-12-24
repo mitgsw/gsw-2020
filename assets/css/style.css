@@ -339,6 +339,27 @@ p {
     position: relative;
 }
 
+.parallax-text-small {
+    padding-top: 150px;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    color: black;
+    z-index: 5;
+    position: relative;
+}
+
+.parallax-text-large {
+    padding-top: 20px;
+    font-size: 80px;
+    font-weight: 800;
+    text-align: center;
+    color: black;
+    z-index: 5;
+    position: relative;
+    font-family: "Helvetica Neue Ultra Light";
+}
+
 .line {
     height: 2px;
     flex: 1;
@@ -351,6 +372,12 @@ p {
         font-size: 4em;
         line-height: 200px;
         z-index: 99;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .parallax-text-large {
+        font-size: 50px;
     }
 }
 
@@ -812,6 +839,31 @@ p {
     width: 100%;
     float: left;
     padding: 0px 20px;
+}
+
+.comp-image img {
+    width: 20vw;
+    height: auto;
+    margin: 10px;
+}
+
+.comp-title {
+    min-height: 15vh;
+}
+
+.comp-info p {
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Helvetica Neue Ultra Light";
+}
+
+@media only screen and (max-width: 480px) {
+    .comp-title h2 {
+        font-size: 1.5em;
+    }
+    .comp-title {
+        min-height: 5vh;
+    }
 }
 
 .link-img {
