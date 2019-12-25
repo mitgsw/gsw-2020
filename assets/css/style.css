@@ -1374,6 +1374,16 @@ p {
     font-family: "Helvetica Neue";
 }
 
+.team-role-title-expanded {
+    font-size: 1.25em;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -0.2px;
+    /* font-family: "Helvetica Neue Thin"; */
+    font-family: "Helvetica Neue Medium";
+    /* font-family: "Helvetica Neue", sans-serif; */
+}
+
 .team-expanded-name {
     font-weight: 800;
     font-size: 1.5em;

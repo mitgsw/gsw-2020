@@ -56,6 +56,7 @@ function getSpeakers() {
                     '<div class="team col-md-5 col-lg-3 text-center"><a href="#team-text-' + first + '">' +
                     '<img class="team-picture" src="' + path + '"></a></div>' +
                     '<div class="col-md-7 col-lg-9"><div class="team-expanded-name">' + name + '</div>' +
+                    '<div class="team-role-title-expanded">' + position + '</div>' +
                     '<div class="team-expanded-role">' + department + ' ' + program + '</div><div class="team-expanded-text">' +
                     bio + '</div></div></div>'
 
