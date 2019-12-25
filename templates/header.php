@@ -50,8 +50,6 @@ function auto_version($file)
         </div>
 
     </div>
-
-
     
 </div>
 
