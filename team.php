@@ -3,10 +3,13 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('assets/images/team/team.jpg');">
+<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/team/team.jpg');">
     <div class="header-overlay">
-        <h1 class="parallax-text">
-            <i>TEAM</i>
+        <h1 class="parallax-text-small">
+            <i>The 2020 MIT Global Startup Workshop</i>
+        </h1>
+        <h1 class="parallax-text-large">
+            <i>Team</i>
         </h1>
     </div>
 </div>

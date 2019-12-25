@@ -142,6 +142,10 @@ p {
     color: white;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 
 /* SPLASH PAGE CSS */
 
@@ -350,7 +354,7 @@ p {
 }
 
 .parallax-text-large {
-    padding-top: 20px;
+    padding-top: 60px;
     font-size: 80px;
     font-weight: 800;
     text-align: center;
@@ -848,22 +852,78 @@ p {
 }
 
 .comp-title {
-    min-height: 15vh;
+    min-height: 10vh;
+}
+
+.comp-title h2 {
+    text-transform: initial;
 }
 
 .comp-info p {
-    text-align: justify;
+    text-align: left;
     text-justify: inter-word;
-    font-family: "Helvetica Neue Ultra Light";
-    font-style: italic;
+    /* font-family: "Helvetica Neue Ultra Light"; */
+    /* font-style: italic; */
 }
 
-@media only screen and (max-width: 480px) {
+.comp-wrapper {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 100px;
+    grid-template-areas: "a a a b b b c c c" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f";
+}
+
+.item1 {
+    grid-area: a;
+    justify-self: center;
+}
+
+.item2 {
+    grid-area: b;
+    /* justify-self: start; */
+    justify-self: center;
+}
+
+.item3 {
+    grid-area: c;
+    /* justify-self: end; */
+    justify-self: center;
+}
+
+.item4 {
+    grid-area: d;
+    justify-self: center;
+}
+
+.item5 {
+    grid-area: e;
+    justify-self: center;
+}
+
+.item6 {
+    grid-area: f;
+    justify-self: center;
+}
+
+@media only screen and (max-width: 650px) {
     .comp-title h2 {
         font-size: 1.5em;
     }
     .comp-title {
         min-height: 5vh;
+    }
+    .comp-wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 10px;
+        grid-auto-rows: 100px;
+        grid-template-areas: "a a a" "d d d" "d d d" "d d d" "b b b" "e e e" "e e e" "e e e" "c c c" "f f f" "f f f" "f f f"
+        /* "a a a b b b c c c" 
+        "d d d e e e f f f" 
+        "d d d e e e f f f" 
+        "d d d e e e f f f" 
+        "d d d e e e f f f"; */
     }
 }
 
@@ -957,8 +1017,8 @@ p {
 }
 
 .competition-slogan {
-    font-size: 2em;
-    font-family: "Helvetica Neue Condensed Black";
+    font-size: 1.25em;
+    /* font-family: "Helvetica Neue Condensed Black"; */
     text-transform: initial;
 }
 
@@ -1262,9 +1322,23 @@ p {
     font-size: 1.25em;
     text-align: center;
     font-weight: 800;
-    text-transform: uppercase;
+    text-transform: initial;
     letter-spacing: -0.2px;
     font-family: "Helvetica Neue Thin";
+    /* font-family: "Helvetica Neue", sans-serif; */
+}
+
+.team-role-title {
+    margin-bottom: 3px;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 1.25em;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: -0.2px;
+    /* font-family: "Helvetica Neue Thin"; */
+    font-family: "Helvetica Neue Medium";
+    /* font-family: "Helvetica Neue", sans-serif; */
 }
 
 .team-area {
@@ -1759,7 +1833,7 @@ a.register-btn-large:hover {
 }
 
 a.register-btn-large {
-    font-size: 3em;
+    font-size: 1.5em;
 }
 
 .full-width {

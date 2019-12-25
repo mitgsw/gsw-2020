@@ -17,17 +17,20 @@
 <body style="background-color: black">
 
 <div class="section">
-    
-    <div class="row">
-        <h1 class="row competition-slogan"> Connect with key players in the startup ecosystem and see what our Startup
+
+        <div class="section-header section-header-page" style="color: white">Startup Showcase</div>
+
+        <p class="competition-slogan"> Connect with key players in the startup ecosystem and see what our Startup
         Showcase finalists are up to in this special event. The showcase is an incredible
-        networking opportunity and it’s open to all GSW attendees.</h1>
-    </div>
+        networking opportunity and it’s open to all GSW attendees.</p>
+    
+    <!-- <div class="row">
+        
+    </div> -->
 
     <div class="row text-center" style="padding: 5%">
         <a class="register-btn-large" style="text-decoration: none;">Apply Here</a>
     </div>
-
 </div>
 
 <div class="section">
@@ -50,6 +53,22 @@
         </div>
         <div class="col-md-6 text-center">
             <div class="comp-title">
+                <h2>Prizes</h2>
+            </div>
+            <div class="comp-info">
+            <p>Two prizes will be awarded consisting of $1000 worth of in-kind
+                tickets to a key local technology and entrepreneurship
+                conference. One winner will be selected through audience
+                choice voting and the other will be awarded through a select jury
+                of MIT based judges and local entrepreneurial leaders.</p>
+            </div>
+        </div>
+        
+    </div>
+    <br> <br>
+    <div class="row">
+        <div class="col-md-6 text-center">
+            <div class="comp-title">
                 <h2>Eligibility</h2>
             </div>
             <div class="comp-info">
@@ -68,21 +87,6 @@
                     conference. One winner will be selected through audience
                     choice voting and the other will be awarded through a select jury
                     of MIT based judges and local entrepreneurial leaders.</p>
-            </div>
-        </div>
-    </div>
-    <br> <br>
-    <div class="row">
-        <div class="col-md-6 text-center">
-            <div class="comp-title">
-                <h2>Prize</h2>
-            </div>
-            <div class="comp-info">
-            <p>Two prizes will be awarded consisting of $1000 worth of in-kind
-                tickets to a key local technology and entrepreneurship
-                conference. One winner will be selected through audience
-                choice voting and the other will be awarded through a select jury
-                of MIT based judges and local entrepreneurial leaders.</p>
             </div>
         </div>
         <div class="col-md-6 text-center">

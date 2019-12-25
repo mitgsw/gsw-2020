@@ -17,12 +17,15 @@
 
 </head>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_2.JPG');">
+<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_2.JPG');"> 
     <div class="header-overlay">
-        <h1 class="parallax-text">
-            <i>ABOUT</i>
+        <h1 class="parallax-text-small">
+            <i>The 2020 MIT Global Startup Workshop</i>
         </h1>
-    </div>  
+        <h1 class="parallax-text-large">
+            <i>About</i>
+        </h1>
+    </div>
 </div>
 
 <body style="background-color: black">

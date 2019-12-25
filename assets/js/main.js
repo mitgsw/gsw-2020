@@ -17,7 +17,7 @@ function linkify(inputText) {
 }
 
 function getSpeakers() {
-    var filename = 'assets/data/team.csv'
+    var filename = 'assets/data/website_team_info.csv'
     Papa.parse(filename, {
         download: true,
         header: true,
@@ -46,6 +46,8 @@ function getSpeakers() {
                 var director = currentSpeaker["Director"];
                 var bio = currentSpeaker["Bio for Website"];
 
+                var position = currentSpeaker["Position"]
+
                 var id = path.replace('.jpg', '').replace('.png', '').replace('.jpeg', '');
 
                 bio = linkify(bio);
@@ -61,23 +63,24 @@ function getSpeakers() {
                     '"> <a href="#team-text-' + first + '">' +
                     '<img class="team-picture" src="' + path + '"></a>' +
                     '<div class="team-name">' + name + '</div>' +
+                    '<div class="team-role-title">' + position + '</div>' +
                     '<div class="team-role">' + department + '</div>' +
                     '<div class="team-role">' + program + '</div>' +
                     '</div>'
 
-                if (director == 'Y') {
-                    teamSmallMarkup = '<div class="team col-sm-6 col-md-3" style="padding: 1%" id="' + first +
-                        '"> <a href="#team-text-' + first + '">' +
-                        '<img class="team-picture " src="' + path + '"></a>' +
-                        '<div class="team-name">' + name + '</div>' +
-                        '<div class="team-role">' + department + '</div>' +
-                        '<div class="team-role">' + program + '</div>' +
-                        '</div>'
-                }
+                // if (director == 'Y') {
+                //     teamSmallMarkup = '<div class="team col-sm-6 col-md-3" style="padding: 1%" id="' + first +
+                //         '"> <a href="#team-text-' + first + '">' +
+                //         '<img class="team-picture " src="' + path + '"></a>' +
+                //         '<div class="team-name">' + name + '</div>' +
+                //         '<div class="team-role">' + department + '</div>' +
+                //         '<div class="team-role">' + program + '</div>' +
+                //         '</div>'
+                // }
 
                 console.log(teamSmallMarkup);
 
-                if (director == 'Y') {
+                if (position == 'Managing Director') {
                     $(teamSmallMarkup).appendTo('#directors-expanded');
                 } else {
                     $(teamSmallMarkup).appendTo('#team-expanded');

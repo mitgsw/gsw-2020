@@ -37,7 +37,7 @@ function auto_version($file)
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block; background-color: black">
 
     <div class="splash-pic-container ">
-        <img src="assets/images/splash/balls_new.png"/>
+        <img src="assets/images/splash/balls_new-min.png"/>
     </div>
 
     <div class="brand">
