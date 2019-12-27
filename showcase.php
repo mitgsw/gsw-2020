@@ -20,16 +20,17 @@
 
         <div class="section-header section-header-page" style="color: white">Startup Showcase</div>
 
-        <p class="competition-slogan"> Connect with key players in the startup ecosystem and see what our Startup
-        Showcase finalists are up to in this special event. The showcase is an incredible
-        networking opportunity and it’s open to all GSW attendees.</p>
+        <p class="competition-slogan"> Connect with key players in the startup ecosystem and see what our Startup Showcase 
+            finalists are up to in this special event. The showcase is an incredible networking opportunity 
+            and it’s open to all GSW attendees.</p>
     
     <!-- <div class="row">
         
     </div> -->
 
-    <div class="row text-center" style="padding: 5%">
-        <a class="register-btn-large" style="text-decoration: none;">Apply Here</a>
+    <div class="row text-center" style="padding-top: 5%">
+        <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_blV5vyXlw6KksPb?fbclid=IwAR0ZNzznBA5hmwgzuIVMEcHdLxOeAarpLItMqrYsnEwTiKDq3TI0k0VND9I">Apply Here</a>
+        <p>BY FRIDAY, 14th FEBRUARY 2020</p>
     </div>
 </div>
 
@@ -41,14 +42,18 @@
             </div>
             <div class="comp-info">
                 <p>The MIT GSW Startup Showcase offers the opportunity to:</p>
-                <p>-Display your products/services to over 400 attendees at GSW <br>
-                -Meet with potential investors, mentors, and government officials <br>
-                -Participate in an networking night for Showcase participants</p>
+                <ul class="a">
+                    <li>-Display your products/services to over 400 attendees at GSW</li>
+                    <li>-Meet with potential investors, mentors, and government officials</li>
+                    <li>-Participate in an networking night for Showcase participants</li>
+                </ul>
 
-            <p>  Up to 20 Finalist teams <br>
-                Up to 10 teams will present on each day of the conference <br>
-                Finalists will have an opportunity to network
-                with sponsors, judges, and conference attendees.</p>
+                <p>We will select up to 20 finalist teams:</p>
+                <ul class="a">
+                    <li>-Up to 10 teams will present on each day of the conference</li>
+                    <li>-Finalists will have an opportunity to network with sponsors, judges, and conference attendees.</li>
+                    <li>-2 individuals per team would be allowed to present at the GSW showcase booth</li>
+                </ul>
             </div>
         </div>
         <div class="col-md-6 text-center">
@@ -56,11 +61,11 @@
                 <h2>Prizes</h2>
             </div>
             <div class="comp-info">
-            <p>Two prizes will be awarded consisting of $1000 worth of in-kind
-                tickets to a key local technology and entrepreneurship
-                conference. One winner will be selected through audience
-                choice voting and the other will be awarded through a select jury
-                of MIT based judges and local entrepreneurial leaders.</p>
+            <p>Two prizes (for upto two individuals per team) will be awarded consisting of 
+                $1000 worth of in-kind tickets to a <strong>prestigious local technology and 
+                entrepreneurship conference.</strong> One winner will be selected through audience 
+                choice voting and the other will be awarded through a select jury of MIT 
+                based judges and local entrepreneurial leaders.</p>
             </div>
         </div>
         
@@ -73,20 +78,13 @@
             </div>
             <div class="comp-info">
                 <p>Who should apply? </p>
-
-                <p>All early to mid stage startups geared towards the French
-                market looking to promote their company, find potential
-                investors, and seek advice.</p>
-
-                <p>Startups must have less than $500,000 USD in annual revenue
-                for the past three years to be eligible.
-                Full rules can be found here.</p>
-
-                <p>Two prizes will be awarded consisting of $1000 worth of in-kind
-                    tickets to a key local technology and entrepreneurship
-                    conference. One winner will be selected through audience
-                    choice voting and the other will be awarded through a select jury
-                    of MIT based judges and local entrepreneurial leaders.</p>
+                <ul class="a">
+                    <li>-All startups, with less than 15 employees, geared towards the 
+                        French market looking to promote their company, find potential investors, and seek advice.</li>
+                    <li>-Startups must have less than $500,000 USD in annual revenue for the past 
+                        three years to be eligible.</li>
+                    <li>-Full rules can be found <a href="https://drive.google.com/file/d/1WeC9IvdFi6ExR9OGwiAtOMCbeqGSHdTq/view?usp=sharing">here.</a></li>
+                </ul>
             </div>
         </div>
         <div class="col-md-6 text-center">
@@ -94,18 +92,27 @@
                 <h2>Key Deadlines</h2>
             </div>
             <div class="comp-info">
-                <p>The main deadlines: </p>
+                <p>The main deadlines:</p>
 
-                <p>Friday, 14th February 2020 - Application Deadline <br>
-                Friday, 6th March, 2020 - Team Selections Announced <br>
-                Monday, 23rd March 2020 - Team Confirmations Due <br>
-                Full showcase deadlines here.</p>
+                <ul class="a">
+                    <li>-Friday, 14th February 2020 - Application Deadline</li>
+                    <li>-Friday, 6th March, 2020 - Team Selections Announced</li>
+                    <li>-Monday, 23rd March 2020 - Team Confirmations Due</li>
+                    <li>-Full showcase deadlines <a href="https://drive.google.com/file/d/1WeC9IvdFi6ExR9OGwiAtOMCbeqGSHdTq/view?usp=sharing">here.</a></li>
+                </ul>
 
-                <p>Read the full rules, deadlines, and eligibility in the Ocial Rules
-                    Document. For more information please contact
+                <p>Read the full rules, deadlines, and eligibility in the <a href="https://drive.google.com/file/d/1WeC9IvdFi6ExR9OGwiAtOMCbeqGSHdTq/view?usp=sharing">Official Rules
+                    Document</a>. For more information please contact
                     gsw2020-competitions@mit.edu.</p>
             </div>
         </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="row text-center comp-title">
+        <h2>Selected Startups </h2>
+        <p>To be announced!</p>
     </div>
 </div>
 
