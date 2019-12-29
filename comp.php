@@ -38,7 +38,8 @@
         <div class="item4">
             <a href="showcase.php">
                 <div class="comp-image text-center">
-                        <img src="assets/images/comp/startup_showcase.png">
+                        <!-- <img src="assets/images/comp/startup_showcase.png"> -->
+                        <img src="assets/images/icons/Icons-Startup.png">
                 </div>
                 <div class="comp-info">
                     <p>
@@ -54,7 +55,8 @@
         </div>
         <div class="item5">
             <div class="comp-image text-center">
-                <img src="assets/images/comp/elevator_pitch.png">
+                <!-- <img src="assets/images/comp/elevator_pitch.png"> -->
+                <img src="assets/images/icons/Icons-Elevator-Pitch.png">
             </div>
             <div class="comp-info">
                 <p>
@@ -70,7 +72,8 @@
         </div>
         <div class="item6">
             <div class="comp-image text-center">
-                <img src="assets/images/comp/sustainable.png">
+                <!-- <img src="assets/images/comp/sustainable.png"> -->
+                <img src="assets/images/icons/Icons-Sustainable.png">
             </div>
             <div class="comp-info">
                 <p>
