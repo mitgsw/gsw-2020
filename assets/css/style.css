@@ -65,7 +65,7 @@ body {
 }
 
 ul.a {
-    list-style-type: none;
+    /* list-style-type: circle; */
     /* font-size: 0.9em; */
     /* font-weight: 200; */
     letter-spacing: 2px;

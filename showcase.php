@@ -52,16 +52,16 @@
             <div class="comp-info">
                 <p>The MIT GSW Startup Showcase offers the opportunity to:</p>
                 <ul class="a">
-                    <li>-Display your products/services to over 400 attendees at GSW</li>
-                    <li>-Meet with potential investors, mentors, and government officials</li>
-                    <li>-Participate in an networking night for Showcase participants</li>
+                    <li>Display your products/services to over 400 attendees at GSW</li>
+                    <li>Meet with potential investors, mentors, and government officials</li>
+                    <li>Participate in an networking night for Showcase participants</li>
                 </ul>
 
                 <p>We will select up to 20 finalist teams:</p>
                 <ul class="a">
-                    <li>-Up to 10 teams will present on each day of the conference</li>
-                    <li>-Finalists will have an opportunity to network with sponsors, judges, and conference attendees.</li>
-                    <li>-2 individuals per team would be allowed to present at the GSW showcase booth</li>
+                    <li>Up to 10 teams will present on each day of the conference</li>
+                    <li>Finalists will have an opportunity to network with sponsors, judges, and conference attendees.</li>
+                    <li>2 individuals per team would be allowed to present at the GSW showcase booth</li>
                 </ul>
             </div>
         </div>
@@ -96,11 +96,11 @@
             <div class="comp-info">
                 <p>Who should apply? </p>
                 <ul class="a">
-                    <li>-All startups, with less than 15 employees, geared towards the 
+                    <li>All startups, with less than 15 employees, geared towards the 
                         French market looking to promote their company, find potential investors, and seek advice.</li>
-                    <li>-Startups must have less than $500,000 USD in annual revenue for the past 
+                    <li>Startups must have less than $500,000 USD in annual revenue for the past 
                         three years to be eligible.</li>
-                    <li>-Full rules can be found <a href="assets/doc/Startup-Showcase.pdf">here.</a></li>
+                    <li>Full rules can be found <a href="assets/doc/Startup-Showcase.pdf">here.</a></li>
                 </ul>
             </div>
         </div>
@@ -119,10 +119,10 @@
                 <p>The main deadlines:</p>
 
                 <ul class="a">
-                    <li>-Friday, 14th February 2020 - Application Deadline</li>
-                    <li>-Friday, 6th March, 2020 - Team Selections Announced</li>
-                    <li>-Monday, 23rd March 2020 - Team Confirmations Due</li>
-                    <li>-Full showcase deadlines <a href="assets/doc/Startup-Showcase.pdf">here.</a></li>
+                    <li>Friday, 14th February 2020 - Application Deadline</li>
+                    <li>Friday, 6th March, 2020 - Team Selections Announced</li>
+                    <li>Monday, 23rd March 2020 - Team Confirmations Due</li>
+                    <li>Full showcase deadlines <a href="assets/doc/Startup-Showcase.pdf">here.</a></li>
                 </ul>
 
                 <p>Read the full rules, deadlines, and eligibility in the <a href="assets/doc/Startup-Showcase.pdf">Official Rules
