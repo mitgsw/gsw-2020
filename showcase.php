@@ -18,7 +18,7 @@
 
 <div class="section">
 
-        <div class="section-header section-header-page" style="color: white">Startup Showcase</div>
+        <!-- <div class="section-header section-header-page" style="color: white">Startup Showcase</div> -->
 
         <div class="row vertical-align comp-slogan-box">
             <div class="col-xs-3 text-center">
