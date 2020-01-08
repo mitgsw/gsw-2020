@@ -141,8 +141,191 @@
 </div>
 
 <div class="section">
-    <div class="row comp-reel text-center">
+    <div class="row text-center comp-title">
+        <h2>Showcase Gallery From Previous Years </h2>
+    </div>
+    <br>
+    <!-- <div class="row comp-reel text-center">
         <h6>Image Reel of Prior Competitions</h6>
+    </div> -->
+    <div class="row">
+    <div class="col-lg-12">
+            <div class="container text-center" style="max-width: 100%">
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+                        <li data-target="#myCarousel" data-slide-to="4"></li>
+                        <li data-target="#myCarousel" data-slide-to="5"></li>
+                        <li data-target="#myCarousel" data-slide-to="6"></li>
+                        <li data-target="#myCarousel" data-slide-to="7"></li>
+                        <li data-target="#myCarousel" data-slide-to="8"></li>
+                        <li data-target="#myCarousel" data-slide-to="9"></li>
+                        <li data-target="#myCarousel" data-slide-to="10"></li>
+                        <li data-target="#myCarousel" data-slide-to="11"></li>
+                        <li data-target="#myCarousel" data-slide-to="12"></li>
+                        <li data-target="#myCarousel" data-slide-to="13"></li>
+                        <li data-target="#myCarousel" data-slide-to="14"></li>
+                        <li data-target="#myCarousel" data-slide-to="15"></li>
+                        <li data-target="#myCarousel" data-slide-to="16"></li>
+                        <li data-target="#myCarousel" data-slide-to="17"></li>
+                        <li data-target="#myCarousel" data-slide-to="18"></li>
+                        <li data-target="#myCarousel" data-slide-to="19"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+                        <div class="item active">
+                            <img src='assets/images/efair/1.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/2.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;"> 
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/3.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/4.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/5.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/6.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/7.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/8.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/9.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/10.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/11.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/12.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/13.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/14.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/15.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/16.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/17.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/18.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src='assets/images/efair/19.jpg' alt="Picture of Entrepreneurship Fair" style="opacity: 0.8;">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h3></h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
     </div>
 </div>
 

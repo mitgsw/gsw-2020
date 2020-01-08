@@ -55,6 +55,62 @@ function auto_version($file)
 
 <div class="section">
     <div class="text-center">
+        <p style="font-size: 4vh"> Learn more about our competitions!</p>
+    </div>
+
+    <div class="line">
+    </div>
+
+    <div class="comp-wrapper-main">
+        <div class="item1">
+            <a href="showcase.php">
+                <div class="comp-title text-center">
+                    <h2>Startup Showcase</h2>
+                </div>
+            </a>
+        </div>
+        <div class="item2">
+            <a href="showcase.php">
+                <div class="comp-title text-center">
+                    <h2>Startup Showcase</h2>
+                </div>
+            </a>
+        </div>
+        <div class="item3">
+            <div class="comp-title text-center">
+                <h2>Sustainable Society/ Startup Challenge</h2>
+            </div>
+        </div>
+        <div class="item4">
+            <a href="showcase.php">
+                <div class="comp-image text-center">
+                        <!-- <img src="assets/images/comp/startup_showcase.png"> -->
+                        <img src="assets/images/icons/Icons-Startup.png">
+                </div>
+
+            </a>
+        </div>
+        <div class="item5">
+            <a href="epc.php">
+                <div class="comp-image text-center">
+                    <!-- <img src="assets/images/comp/elevator_pitch.png"> -->
+                    <img src="assets/images/icons/Icons-Elevator-Pitch.png">
+                </div>
+
+            </a>
+        </div>
+        <div class="item6">
+            <div class="comp-image text-center">
+                <!-- <img src="assets/images/comp/sustainable.png"> -->
+                <img src="assets/images/icons/Icons-Sustainable.png">
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="text-center">
         <i> <p style="font-size: 4vh"> GET NOTIFIED</p> </i>
     </div>
 
@@ -69,5 +125,7 @@ function auto_version($file)
     </div>
 
 </div>
+
+
 
 </body>

@@ -26,9 +26,11 @@
             </a>
         </div>
         <div class="item2">
-            <div class="comp-title text-center">
-                <h2>Elevator Pitch Competition</h2>
-            </div>
+            <a href="showcase.php">
+                <div class="comp-title text-center">
+                    <h2>Startup Showcase</h2>
+                </div>
+            </a>
         </div>
         <div class="item3">
             <div class="comp-title text-center">
@@ -54,21 +56,23 @@
             </a>
         </div>
         <div class="item5">
-            <div class="comp-image text-center">
-                <!-- <img src="assets/images/comp/elevator_pitch.png"> -->
-                <img src="assets/images/icons/Icons-Elevator-Pitch.png">
-            </div>
-            <div class="comp-info">
-                <p>
-                Do you have an amazing idea? Apply
-                to the Elevator Pitch Competition
-                (EPC) for the opportunity to win
-                monetary prizes and receive
-                mentorship from entrepreneurship
-                leaders from MIT and France!
-                </p>
-                <p>Applications opening soon!</p>
-            </div>
+            <a href="epc.php">
+                <div class="comp-image text-center">
+                    <!-- <img src="assets/images/comp/elevator_pitch.png"> -->
+                    <img src="assets/images/icons/Icons-Elevator-Pitch.png">
+                </div>
+                <div class="comp-info">
+                    <p>
+                    Do you have an amazing idea? Apply
+                    to the Elevator Pitch Competition
+                    (EPC) for the opportunity to win
+                    monetary prizes and receive
+                    mentorship from entrepreneurship
+                    leaders from MIT and France!
+                    </p>
+                    <p>Applications opening soon!</p>
+                </div>
+            </a>
         </div>
         <div class="item6">
             <div class="comp-image text-center">
