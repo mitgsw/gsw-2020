@@ -16,8 +16,7 @@
 
 <body style="background-color: black">
 
-<div class="section">
-    <!-- <br> -->
+<!-- <div class="section">
     <div class="col-lg-12 comp-content" id="directors-expanded">
         <div class="section-header section-header-page" style="color: white">Co-Directors</div>
         <div class="row speaker-expanded-bio">
@@ -26,9 +25,8 @@
         </div>
     </div>
 
-    <!-- <br><br><br><br><br><br><br><br><br><br> -->
 
-</div>
+</div> -->
 
 <div class="section">
     <div class="col-lg-12 comp-content" id="team-expanded">

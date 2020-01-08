@@ -26,9 +26,9 @@
             </a>
         </div>
         <div class="item2">
-            <a href="showcase.php">
+            <a href="epc.php">
                 <div class="comp-title text-center">
-                    <h2>Startup Showcase</h2>
+                    <h2>Elevator Pitch Competition</h2>
                 </div>
             </a>
         </div>
@@ -70,7 +70,6 @@
                     mentorship from entrepreneurship
                     leaders from MIT and France!
                     </p>
-                    <p>Applications opening soon!</p>
                 </div>
             </a>
         </div>

@@ -116,7 +116,7 @@
                     <li>Friday, 7th February 2020: Individual Confirmations Due</li>
                     <li>February-March 2020: Mandatory 1st Mentorship Session with MIT Entrepreneurs</li>
                     <li>Monday, 23rd March 2020: Final Mentorship session at GSW</li>
-                    <li>Full EPC deadlines <a href="assets/doc/epc.php">here.</a></li>
+                    <li>Full EPC deadlines <a href="assets/doc/epc.pdf">here.</a></li>
                 </ul>
 
                 <p>Read the full rules, deadlines, and eligibility in the <a href="assets/doc/epc.pdf">Official Rules

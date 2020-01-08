@@ -81,11 +81,13 @@ function getSpeakers() {
 
                 console.log(teamSmallMarkup);
 
-                if (position == 'Managing Director') {
-                    $(teamSmallMarkup).appendTo('#directors-expanded');
-                } else {
-                    $(teamSmallMarkup).appendTo('#team-expanded');
-                }
+                // if (position == 'Managing Director') {
+                //     $(teamSmallMarkup).appendTo('#directors-expanded');
+                // } else {
+                //     $(teamSmallMarkup).appendTo('#team-expanded');
+                // }
+                $(teamSmallMarkup).appendTo('#team-expanded');
+
 
                 $(bioMarkup).appendTo('#bios');
 

@@ -55,11 +55,13 @@ function auto_version($file)
 
 <div class="section">
     <div class="text-center">
-        <p style="font-size: 4vh"> Learn more about our competitions!</p>
+        <i><p style="font-size: 4vh"> LEARN MORE ABOUT OUR COMPETITIONS</p></i>
     </div>
+    
 
     <div class="line">
     </div>
+    <br>
 
     <div class="comp-wrapper-main">
         <div class="item1">
@@ -70,9 +72,9 @@ function auto_version($file)
             </a>
         </div>
         <div class="item2">
-            <a href="showcase.php">
+            <a href="epc.php">
                 <div class="comp-title text-center">
-                    <h2>Startup Showcase</h2>
+                    <h2>Elevator Pitch Competition</h2>
                 </div>
             </a>
         </div>
@@ -119,8 +121,9 @@ function auto_version($file)
     </div>
 
     <div class="text-center splash-logo-container">
+        <p>Information about registration coming soon!</p>
         <p>
-        More information coming soon! Please click <a href='about.php'> here </a> to learn more about the MIT GSW.
+        More information coming soon. Please click <a href='about.php'> here </a> to learn more about the MIT GSW.
         </p>
     </div>
 
