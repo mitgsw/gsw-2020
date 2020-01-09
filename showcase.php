@@ -120,8 +120,8 @@
 
                 <ul class="a">
                     <li>Friday, 14th February 2020 - Application Deadline</li>
-                    <li>Friday, 6th March, 2020 - Team Selections Announced</li>
-                    <li>Monday, 23rd March 2020 - Team Confirmations Due</li>
+                    <li>Monday, 24th February, 2020: Team Selections Announced</li>
+                    <li>Friday, 6th March 2020: Team Confirmations Due</li>
                     <li>Full showcase deadlines <a href="assets/doc/Startup-Showcase.pdf">here.</a></li>
                 </ul>
 

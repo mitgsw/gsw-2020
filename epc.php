@@ -111,9 +111,9 @@
                 <p>The main deadlines:</p>
 
                 <ul class="a"> 
-                    <li>Friday, 17th January 2020: Application Deadline</li>
-                    <li>Friday, 31st January 2020: Individual Selections Announced</li>
-                    <li>Friday, 7th February 2020: Individual Confirmations Due</li>
+                    <li>Friday, 24th January 2020: Application Deadline</li>
+                    <li>Friday, 7th February 2020: Individual Selections Announced</li>
+                    <li>Friday, 14th February 2020: Individual Confirmations Due</li>
                     <li>February-March 2020: Mandatory 1st Mentorship Session with MIT Entrepreneurs</li>
                     <li>Monday, 23rd March 2020: Final Mentorship session at GSW</li>
                     <li>Full EPC deadlines <a href="assets/doc/epc.pdf">here.</a></li>

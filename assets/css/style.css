@@ -108,7 +108,9 @@ h2 {
     font-weight: 900;
     text-transform: uppercase;
     letter-spacing: 0.5px;
-    font-family: "Helvetica Neue Condensed Bold", sans-serif;
+    font-size: 1.9em;
+    /* font-family: "Helvetica Neue Condensed Bold", sans-serif; */
+    font-family: "Helvetica Neue Bold", sans-serif;
     color: black;
 }
 
@@ -319,7 +321,9 @@ p {
     border-bottom: 2px solid rgba(255, 255, 255, 0.8);
     padding-bottom: 5px;
     color: #0e1e58;
-    font-family: "Helvetica Neue Condensed Bold";
+    font-size: 1.9em;
+    /* font-family: "Helvetica Neue Condensed Bold", sans-serif; */
+    font-family: "Helvetica Neue Bold", sans-serif;
     font-size: 5vh;
 }
 
@@ -400,7 +404,8 @@ p {
     color: black;
     z-index: 5;
     position: relative;
-    font-family: "Helvetica Neue Ultra Light";
+    /* font-family: "Helvetica Neue Ultra Light"; */
+    font-family: "Helvetica Neue Thin";
 }
 
 .line {
@@ -917,7 +922,7 @@ p {
 .comp-wrapper-main {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    grid-gap: 10px;
+    grid-gap: 25px;
     grid-auto-rows: 100px;
     grid-template-areas: "a a a b b b c c c" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f";
 }
@@ -929,7 +934,7 @@ p {
 .comp-wrapper {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
-    grid-gap: 10px;
+    grid-gap: 25px;
     grid-auto-rows: 100px;
     grid-template-areas: "a a a b b b c c c" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f";
 }
