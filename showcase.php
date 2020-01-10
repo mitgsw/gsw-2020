@@ -71,8 +71,8 @@
                 <h2>Prizes</h2>
             </div>
             <div class="comp-info">
-            <p>Two prizes (for upto two individuals per team) will be awarded consisting of 
-                $1000 worth of in-kind tickets to a <strong>prestigious local technology and 
+            <p>Two prizes (for up to two individuals per team) will be awarded consisting of 
+                €1000 worth of in-kind tickets to a <strong>prestigious local technology and 
                 entrepreneurship conference.</strong> One winner will be selected through audience 
                 choice voting and the other will be awarded through a select jury of MIT 
                 based judges and local entrepreneurial leaders.</p>

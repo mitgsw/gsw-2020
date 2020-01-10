@@ -52,7 +52,7 @@
                 <p>Apply to the MIT GSW Elevator Pitch Competition for a chance to:</p>
                 <ul class="a">
                     <li>Become one of the 20 finalists to pitch for 90 seconds in front of a panel of judges and GSW attendees </li>
-                    <li>Win up to $2000 in prizes</li>
+                    <li>Win up to €2000 in prizes</li>
                     <li>Receive mentorship from experienced MIT entrepreneurs </li>
                 </ul>
             </div>
@@ -65,9 +65,9 @@
             <div class="comp-info">
             <p>Three prizes will be awarded consisting of:</p>
             <ul class="a">
-                <li>A 1st place prize of <strong>$1500</strong></li>
-                <li>A runner up prize of <strong>$1000</strong></li>
-                <li>An audience's choice prize of <strong>$500</strong></li>
+                <li>A 1st place prize of <strong>€1500</strong></li>
+                <li>A runner up prize of <strong>€1000</strong></li>
+                <li>An audience's choice prize of <strong>€500</strong></li>
             </ul>
             </div>
         </div>
