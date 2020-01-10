@@ -404,8 +404,8 @@ p {
     color: black;
     z-index: 5;
     position: relative;
-    /* font-family: "Helvetica Neue Ultra Light"; */
-    font-family: "Helvetica Neue Thin";
+    font-family: "Helvetica Neue Ultra Light";
+    /* font-family: "Helvetica Neue Thin"; */
 }
 
 .line {
