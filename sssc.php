@@ -3,7 +3,7 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_6.jpg');">
+<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_6.JPG');">
     <div class="header-overlay">
         <h1 class="parallax-text-small">
             <i>The 2020 MIT Global Startup Workshop</i>
@@ -25,8 +25,13 @@
                 <img src="assets/images/icons/Icons-Sustainable.png" class="competition-img">
             </div>
             <div class="col-xs-9">
-                <p class="competition-slogan"> Do you dream of ways to improve life for your community and country? Would you like to promote longer and stronger engagement between MIT and France while creating social impact and sustainability?</p>
-                <p>The Sustainable Society Startup Competition (SSSC) invites teams to address a major challenge that the Alps is currently facing—climate change and its effect on the surrounding communities. Established startups with a focus on sustainability and social issues are invited to apply.</p>
+                <p class="competition-slogan"> Do you dream of ways to improve life for your 
+                community and country? Would you like to promote longer and stronger engagement 
+                between MIT and France while creating social impact and sustainability?</p>
+                <p>The Sustainable Society Startup Competition (SSSC) invites teams to 
+                address a major challenge that the Alps is currently facing—climate change 
+                and its effect on the surrounding communities. Established startups with a 
+                focus on sustainability and social issues are invited to apply.</p>
             </div>
         
         </div>
@@ -36,7 +41,7 @@
     </div> -->
 
     <div class="row text-center">
-        <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_4Ph3eoy0aLnOX5P?fbclid=IwAR3mZy3mnn6quniFePJ0UbTAQMW4coPGMqi1A0moyn_hR6xxYoX3sRUy_QQ">Apply Here</a>
+        <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_8InqJGFRs5Huwfz">Apply Here</a>
         <p>BY MONDAY, 24th FEBRUARY 2020</p>
     </div>
 </div>
@@ -51,7 +56,8 @@
             <div class="comp-info">
                 <p>Apply to the MIT GSW Sustainable Society Startup Competition for a chance to:</p>
                 <ul class="a">
-                    <li>Become one of the eight teams eligible to pitch in front of entrepreneurship leaders from France and MIT</li>
+                    <li>Become one of the eight teams eligible to pitch in front of 
+                    entrepreneurship leaders from France and MIT</li>
                     <li>Display your solution/products/services to over 400 attendees at GSW</li>
                     <li>Meet with potential investors, mentors and government officials</li>
                 </ul>
@@ -84,8 +90,10 @@
             <div class="comp-info">
                 <p>Who should apply? </p>
                 <ul class="a">
-                    <li>The Sustainable Society Startup Competition is for startups of all stages with original ideas on how to solve pressing social and environmental issues facing the Alps.</li>
-                    <li>Ventures must fall under at least one of the following categories: Renewable Energy, Clean Energy, Agriculture & Food Sustainability, Social Impact and Climate Change.</li>
+                    <li>The Sustainable Society Startup Competition is for startups of all stages with original ideas on 
+                    how to solve pressing social and environmental issues facing the Alps.</li>
+                    <li>Ventures must fall under at least one of the following categories: Renewable Energy, 
+                    Clean Energy, Agriculture & Food Sustainability, Social Impact and Climate Change.</li>
                     <li>Startups should be based in, or geared towards, the French market with an established business plan.</li>
                     <li>Full rules can be found <a href="assets/doc/sssc.pdf">here.</a></li>
                 </ul>
@@ -109,12 +117,12 @@
                     <li>Monday, 24th February 2020: Application Deadline</li>
                     <li>Monday, 9th March 2020: Team Selections Announced</li>
                     <li>Monday, 16th March 2020: Team Confirmations Due</li>
-                    <li>Full competition deadlines deadlines <a href="assets/doc/sssc.pdf">here.</a></li>
+                    <li>Full competition deadlines <a href="assets/doc/sssc.pdf">here.</a></li>
                 </ul>
 
                 <p>Read the full rules, deadlines, and eligibility in the <a href="assets/doc/sssc.pdf">Official Rules
-                    Document</a>. For more information please contact
-                    gsw2020-competitions@mit.edu.</p>
+                    Document</a>. For more information, please contact
+                    <a href='mailto:gsw2020-competitions@mit.edu'>gsw2020-competitions@mit.edu</a>.</p>
             </div>
         </div>
     </div>

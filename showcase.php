@@ -126,8 +126,8 @@
                 </ul>
 
                 <p>Read the full rules, deadlines, and eligibility in the <a href="assets/doc/Startup-Showcase.pdf">Official Rules
-                    Document</a>. For more information please contact
-                    gsw2020-competitions@mit.edu.</p>
+                    Document</a>. For more information, please contact
+                    <a href='mailto:gsw2020-competitions@mit.edu'>gsw2020-competitions@mit.edu</a>.</p>
             </div>
         </div>
     </div>
