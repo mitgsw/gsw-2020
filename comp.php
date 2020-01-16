@@ -33,9 +33,11 @@
             </a>
         </div>
         <div class="item3">
-            <div class="comp-title text-center">
-                <h2>Sustainable Society/ Startup Challenge</h2>
-            </div>
+            <a href="sssc.php">
+                <div class="comp-title text-center">
+                    <h2>Sustainable Society Startup Challenge</h2>
+                </div>
+            </a>
         </div>
         <div class="item4">
             <a href="showcase.php">
@@ -74,21 +76,22 @@
             </a>
         </div>
         <div class="item6">
-            <div class="comp-image text-center">
-                <!-- <img src="assets/images/comp/sustainable.png"> -->
-                <img src="assets/images/icons/Icons-Sustainable.png">
-            </div>
-            <div class="comp-info">
-                <p>
-                Do you dream of ways to improve life
-                for your community and country?
-                Would you like to promote longer and
-                stronger engagement between MIT
-                and France while creating social
-                impact and sustainability?
-                </p>
-                <p>Applications opening soon!</p>
-            </div>
+            <a href="sssc.php">
+                <div class="comp-image text-center">
+                    <!-- <img src="assets/images/comp/sustainable.png"> -->
+                    <img src="assets/images/icons/Icons-Sustainable.png">
+                </div>
+                <div class="comp-info">
+                    <p>
+                    Do you dream of ways to improve life
+                    for your community and country?
+                    Would you like to promote longer and
+                    stronger engagement between MIT
+                    and France while creating social
+                    impact and sustainability?
+                    </p>
+                </div>
+            </a>
         </div>
     </div>
 </div>

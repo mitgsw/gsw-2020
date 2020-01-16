@@ -79,9 +79,11 @@ function auto_version($file)
             </a>
         </div>
         <div class="item3">
-            <div class="comp-title text-center">
-                <h2>Sustainable Society/ Startup Challenge</h2>
-            </div>
+            <a href="sssc.php">
+                <div class="comp-title text-center">
+                    <h2>Sustainable Society Startup Challenge</h2>
+                </div>
+            </a>
         </div>
         <div class="item4">
             <a href="showcase.php">
@@ -102,10 +104,12 @@ function auto_version($file)
             </a>
         </div>
         <div class="item6">
-            <div class="comp-image text-center">
-                <!-- <img src="assets/images/comp/sustainable.png"> -->
-                <img src="assets/images/icons/Icons-Sustainable.png">
-            </div>
+            <a href="sssc.php">
+                <div class="comp-image text-center">
+                    <!-- <img src="assets/images/comp/sustainable.png"> -->
+                    <img src="assets/images/icons/Icons-Sustainable.png">
+                </div>
+            </a>
 
         </div>
     </div>
