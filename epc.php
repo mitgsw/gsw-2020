@@ -37,7 +37,7 @@
 
     <div class="row text-center">
         <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_4Ph3eoy0aLnOX5P?fbclid=IwAR3mZy3mnn6quniFePJ0UbTAQMW4coPGMqi1A0moyn_hR6xxYoX3sRUy_QQ">Apply Here</a>
-        <p>BY FRIDAY, 14th FEBRUARY 2020</p>
+        <p>BY FRIDAY, 24th FEBRUARY 2020</p>
     </div>
 </div>
 
