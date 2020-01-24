@@ -31,7 +31,10 @@
 <body style="background-color: black">
 
 <div class="section">
-    <br>
+
+<div class="text-center">
+<p>Read the press release about the 2020 MIT GSW <a href="https://en.grenoble-em.com/node/11200">here.</a></p>
+</div>
     <div class="section-header section-header-page" style="color: white">20 Years Strong</div>
     <div>
 
