@@ -186,7 +186,7 @@ function auto_version($file)
 
         <div class="col-md-12 text-center partner-border">
             <div class="row text-center">
-                <h1 style='font-size: 2vw; color: black'> Sponsor Level 3</h1>
+                <h1 style='font-size: 2vw; color: black'> Sponsor Level 4</h1>
             </div>
             <br>
 
