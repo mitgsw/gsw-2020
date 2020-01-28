@@ -408,11 +408,16 @@ p {
     /* font-family: "Helvetica Neue Thin"; */
 }
 
-.line {
+.line,
+.black-line {
     height: 2px;
     flex: 1;
     background: white;
     margin: 0 20px;
+}
+
+.black-line {
+    background: black;
 }
 
 @media only screen and (min-width: 480px) {
@@ -449,7 +454,29 @@ p {
 .partner-logo {
     /* width: 200px; */
     /* max-width: 50%; */
-    height: 10vh;
+    height: 12vh;
+    width: auto;
+    margin: 2%;
+    /* padding: 20px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.partner-logo-2 {
+    /* width: 200px; */
+    /* max-width: 50%; */
+    height: 9vh;
+    width: auto;
+    margin: 2%;
+    /* padding: 20px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.partner-logo-3 {
+    /* width: 200px; */
+    /* max-width: 50%; */
+    height: 8vh;
     width: auto;
     margin: 2%;
     /* padding: 20px; */
@@ -498,7 +525,7 @@ p {
 }
 
 .partner-border {
-    outline: 1px solid white;
+    outline: 1px solid black;
     padding: 15px;
     margin: 5px;
     vertical-align: middle;
@@ -1817,6 +1844,15 @@ p {
 .btn-default {
     white-space: normal !important;
     word-wrap: break-word;
+}
+
+.white-section {
+    background-color: white;
+}
+
+.white-section p,
+h1 {
+    color: black
 }
 
 

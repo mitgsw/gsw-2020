@@ -115,6 +115,104 @@ function auto_version($file)
     </div>
 </div>
 
+<div class="section white-section">
+    
+    <div class="text-center">
+        <i> <p style="font-size: 4vh"> COLLABORATORS</p> </i>
+    </div>
+
+    <div class="black-line"></div>
+    <br><br>
+    <div class="row">
+
+        <div class="col-md-12 text-center partner-border vertical-align">
+            <div class="col-sm-6 text-center">
+                <h1 style='font-size: 3vw; color: black'> Co-organizer</h1>
+            </div>
+            <div class="col-sm-6">
+                <a href="https://en.grenoble-em.com/">
+                    <img src="assets/images/logo/gem.png" class="partner-logo partner-logo-mobile" style="height: 180px">
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-12 text-center partner-border vertical-align">
+            <div class="col-sm-6 text-center">
+                <h1 style='font-size: 3vw; color: black'> Major Sponsor</h1>
+            </div>
+            <div class="col-sm-6">
+                <img src="assets/images/logo/lrra.png" class="partner-logo partner-logo-mobile" style="height: 150px">
+            </div>
+        </div>
+
+        <div class="col-md-12 text-center partner-border">
+            <div class="row text-center">
+                <h1 style='font-size: 2.5vw; color: black'> Sponsor Level 2</h1>
+            </div>
+            <br>
+
+            <div class="row">
+                <div style='display: block, margin: auto, text-align: center'>
+                    <img src="assets/images/logo/logo-uga.jpg" class="partner-logo partner-logo-mobile">
+                    <img src="assets/images/logo/logo-STMicroelectronics.jpg" class="partner-logo partner-logo-mobile">
+                    <img src="assets/images/logo/BPI.png" class="partner-logo partner-logo-mobile">
+                </div>
+            </div>
+
+            <div class="row">
+                <div style='display: block, margin: auto, text-align: center'>
+                    <img src="assets/images/logo/schneider-electric-logo.png" class="partner-logo partner-logo-mobile">
+                    <img src="assets/images/logo/Tessi-SA-logo.jpg" class="partner-logo partner-logo-mobile" style="height: 110px">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-12 text-center partner-border">
+            <div class="row text-center">
+                <h1 style='font-size: 2.3vw; color: black'> Sponsor Level 3</h1>
+            </div>
+            <br>
+
+            <div class="row">
+                <div style='display: block, margin: auto, text-align: center'>
+                    <img src="assets/images/logo/logo_giant-cea_tech.jpg" class="partner-logo-2 partner-logo-mobile">
+                    <img src="assets/images/logo/cap-gem-invent.png" class="partner-logo-2 partner-logo-mobile">
+                    <img src="assets/images/logo/minatec.png" class="partner-logo-2 partner-logo-mobile">
+                    <img src="assets/images/logo/Atos/Logo_RGB.png" class="partner-logo-2 partner-logo-mobile">
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-md-12 text-center partner-border">
+            <div class="row text-center">
+                <h1 style='font-size: 2vw; color: black'> Sponsor Level 3</h1>
+            </div>
+            <br>
+
+            <div class="row">
+                <div style='display: block, margin: auto, text-align: center'>
+                    <img src="assets/images/logo/IC-LSI.jpg" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/banque.jpg" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/Grenoble_INP_(logo).svg.png" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/logo-auvergne-rhone-alpes-entreprises-jaune-rvb.jpg" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/inr_logo_rouge.png" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/CEALeti_Logo_bassedef.jpg" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/agr.png" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/logo-IRT-nanoelec-web.jpg" class="partner-logo-3 partner-logo-mobile">
+                    <img src="assets/images/logo/WAOUP-logos_noir.png" class="partner-logo-3 partner-logo-mobile">
+
+                </div>
+            </div>
+
+        </div>
+    
+    </div>
+
+    
+
+</div>
+
 <div class="section">
     <div class="text-center">
         <i> <p style="font-size: 4vh"> GET NOTIFIED</p> </i>
