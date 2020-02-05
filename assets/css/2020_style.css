@@ -458,8 +458,8 @@ p {
     width: auto;
     margin: 2%;
     /* padding: 20px; */
-    padding-left: 20px;
-    padding-right: 20px;
+    /* padding-left: 20px;
+    padding-right: 20px; */
 }
 
 .partner-logo-2 {
@@ -469,14 +469,25 @@ p {
     width: auto;
     margin: 2%;
     /* padding: 20px; */
-    padding-left: 20px;
-    padding-right: 20px;
+    /* padding-left: 20px;
+    padding-right: 20px; */
 }
 
 .partner-logo-3 {
     /* width: 200px; */
     /* max-width: 50%; */
     height: 8vh;
+    width: auto;
+    margin: 2%;
+    /* padding: 20px; */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.partner-logo-4 {
+    /* width: 200px; */
+    /* max-width: 50%; */
+    height: 70px;
     width: auto;
     margin: 2%;
     /* padding: 20px; */
