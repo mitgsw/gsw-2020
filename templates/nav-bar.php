@@ -75,6 +75,7 @@
             <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
             <li><a href="comp.php">Competitions</a></li>
             <li><a href="speakers.php">Speakers</a></li>
+            <li><a href="content.php">Content</a></li>
             <li><a href="team.php">Team</a></li>
             <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li>
             <!-- <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li> -->

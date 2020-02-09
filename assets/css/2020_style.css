@@ -1453,7 +1453,8 @@ p {
 }
 
 .team-association,
-.team-role {
+.team-role,
+.team-area {
     margin-bottom: 3px;
     color: rgba(255, 255, 255, 0.9);
     font-size: 1.25em;
@@ -1478,13 +1479,14 @@ p {
     /* font-family: "Helvetica Neue", sans-serif; */
 }
 
-.team-area {
+
+/* .team-area {
     margin-bottom: 8vh;
     color: #e4e4f0;
     font-size: 0.9em;
     text-align: center;
     font-family: "DIN Regular";
-}
+} */
 
 .team-row,
 .team-expanded-bio {
@@ -1501,6 +1503,7 @@ p {
 .team {
     font-size: 0.8em;
     font-weight: 600;
+    padding: 1%;
 }
 
 .team-expanded-text {
