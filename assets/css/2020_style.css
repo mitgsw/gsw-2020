@@ -1283,7 +1283,7 @@ p {
     margin-bottom: 5px;
     font-size: 2.0em;
     color: white;
-    font-family: "DIN";
+    font-family: "Helvetica Neue Condensed Bold";
     text-transform: uppercase;
 }
 
@@ -1326,6 +1326,10 @@ p {
     margin: 30;
     padding: 30;
     height: 300;
+}
+
+.team-speaker a {
+    text-decoration: none;
 }
 
 
@@ -1443,7 +1447,7 @@ p {
     text-align: center;
     font-weight: 800;
     margin-bottom: 5px;
-    font-size: 2em;
+    font-size: 1.7em;
     color: white;
     font-family: "Helvetica Neue Condensed Bold";
 }
