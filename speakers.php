@@ -17,6 +17,11 @@
 <body style="background-color: black">
 
 <div class="section">
+    <p class="competition-slogan" style="padding: 2%">
+    MIT GSW is proud to host a diverse range of speakers from Cambridge, Europe and around 
+    the world. We're excited to have these world-class individuals share their experiences 
+    with us! Click on each speaker to learn more about their background and accomplishments.
+    </p>
     <div class="col-lg-12 comp-content" id="plenary-section-expanded">
         <div class="section-header section-header-page" style="color: white">Plenary</div>
         <div class="row speaker-expanded-bio">

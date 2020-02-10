@@ -157,7 +157,7 @@
                 <div class="team-area">Entrepreneur-in-Residence, MIT Martin Trust Center (US)</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="images/speaker-img/carolina-l.jpeg"></a>
+                <img class="panel-picture" src="assets/images/speakers/lea.jpg"></a>
                 <div class="team-name">Léa Peersman Pujol (Moderator)</div>
                 <div class="team-role">People & Organizational Development</div>
                 <div class="team-area">CHANEL (France)</div>
