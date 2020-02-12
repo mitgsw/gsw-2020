@@ -120,7 +120,7 @@
                 <div class="team-area">Quandela (France) </div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="assets/images/speakers/Cedric_O_Headshot.jpg"></a>
+                <img class="panel-picture" src="assets/images/speakers/cedric_favier.jpeg"></a>
                 <div class="team-name">Cédric Favier</div>
                 <div class="team-role">Investment Director</div>
                 <div class="team-area">Elaia Ventures (France) </div>
