@@ -74,6 +74,10 @@
     </div>
 </div>
 
+<div class="section text-center">
+<p class="competition-slogan"> More speakers are being added everyday!</p>
+</div>
+
 
 </body>
 

@@ -52,8 +52,12 @@ function getSpeakers() {
                 var double = title.includes('&&');
 
                 if (double) {
-                    job = title.split('&&')[0];
-                    place = title.split('&&')[1];
+                    // job = title.split('&&')[0];
+                    // place = title.split('&&')[1];
+                    first = title.split('&&')[0];
+                    second = title.split('&&')[1];
+                    job = first.split(',')[0] + ' & ' + second.split(',')[0];
+                    place = first.split(',')[1] + '& ' + second.split(',')[1];
                 } else {
                     job = title.split(',')[0];
                     place = title.split(',')[1];
