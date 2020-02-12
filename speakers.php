@@ -22,6 +22,7 @@
     the world. We're excited to have these world-class individuals share their experiences 
     with us! Click on each speaker to learn more about their background and accomplishments.
     </p>
+    <p style="padding: 2%" class="text-center"><i>Content Programming in Progress</i></p>
     <div class="col-lg-12 comp-content" id="plenary-section-expanded">
         <div class="section-header section-header-page" style="color: white">Plenary</div>
         <div class="row speaker-expanded-bio">
@@ -72,10 +73,6 @@
             </div>
         </div>
     </div>
-</div>
-
-<div class="section text-center">
-<p class="competition-slogan"> More speakers are being added everyday!</p>
 </div>
 
 

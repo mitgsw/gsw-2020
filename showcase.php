@@ -71,11 +71,8 @@
                 <h2>Prizes</h2>
             </div>
             <div class="comp-info">
-            <p>Two prizes (for up to two individuals per team) will be awarded consisting of 
-                €1000 worth of in-kind tickets to a <strong>prestigious local technology and 
-                entrepreneurship conference.</strong> One winner will be selected through audience 
-                choice voting and the other will be awarded through a select jury of MIT 
-                based judges and local entrepreneurial leaders.</p>
+            <p>Prizes will be awarded, consisting of up to <strong>€2000 in cash and a chance to showcase the startup in VivaTech Paris 2020!! </strong>
+            One winner will be selected through audience choice voting, and the other will be chosen by a select jury of MIT-based judges and local entrepreneurship leaders.</p>
             </div>
         </div>
         
@@ -96,8 +93,8 @@
             <div class="comp-info">
                 <p>Who should apply? </p>
                 <ul class="a">
-                    <li>All startups, with less than 15 employees, geared towards the 
-                        French market looking to promote their company, find potential investors, and seek advice.</li>
+                    <li>All startups, with less than 15 employees, looking to promote their company, 
+                    find potential investors and/or seek advice</li>
                     <li>Startups must have less than $500,000 USD in annual revenue for the past 
                         three years to be eligible.</li>
                     <li>Full rules can be found <a href="assets/doc/Startup-Showcase.pdf">here.</a></li>
