@@ -89,7 +89,7 @@
             <div class="comp-info">
                 <p>Who should apply? </p>
                 <ul class="a">
-                    <li>Individuals with original ideas on how to solve pressing issues facing France</li>
+                    <li>Individuals with original ideas on how to solve pressing issues facing the world</li>
                     <li>The solution must be in the ideation or early implementation stages 
                     and not yet incorporated into a business.</li>
                     <li>Full rules can be found <a href="assets/doc/epc.pdf">here.</a></li>
@@ -114,7 +114,7 @@
                     <li>Friday, 14th February 2020: Application Deadline (Deadline Extended from 24th January)</li>
                     <li>Friday, 21st February 2020: Individual Selections Announced</li>
                     <li>Friday, 28th February 2020: Individual Confirmations Due</li>
-                    <li>February-March 2020: Mandatory 1st Mentorship Session with MIT Entrepreneurs</li>
+                    <li>Early March 2020: Mandatory 1st Mentorship Session with MIT Entrepreneurs</li>
                     <li>Monday, 23rd March 2020: Final Mentorship session at GSW</li>
                     <li>Full EPC deadlines <a href="assets/doc/epc.pdf">here.</a></li>
                 </ul>

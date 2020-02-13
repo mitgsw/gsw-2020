@@ -69,7 +69,9 @@
                 <h2>Prizes</h2>
             </div>
             <div class="comp-info">
-            <p>Prizes worth €9,000 including a trip to MIT, will be awarded. More details coming soon!</p>
+            <p>Prizes worth €9,000 including a trip to MIT (connecting with MIT Entrepreneurs and mentors, 
+            touring the sustainability & entrepreneurial resources on MIT campus, MIT Solve seminars and 
+            many more!!), will be awarded. More details coming soon!</p>
             </div>
         </div>
         
@@ -92,9 +94,8 @@
                 <ul class="a">
                     <li>The Sustainable Society Startup Competition is for startups of all stages with original ideas on 
                     how to solve pressing social and environmental issues facing the Alps.</li>
-                    <li>Ventures must fall under at least one of the following categories: Renewable Energy, 
-                    Clean Energy, Agriculture & Food Sustainability, Social Impact and Climate Change.</li>
-                    <li>Startups should be based in, or geared towards, the French market with an established business plan.</li>
+                    <li>Ventures must fall under at least one of the following or allied categories: Renewable Energy, Clean Energy, Agriculture & Food Sustainability, 
+                    Social Impact and Climate Change, BioMedical and Deep Tech., Infrastructure, Sustainable Cities and communities, Water.</li>
                     <li>Full rules can be found <a href="assets/doc/sssc.pdf">here.</a></li>
                 </ul>
             </div>

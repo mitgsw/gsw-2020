@@ -17,6 +17,8 @@
 <body style="background-color: black">
 
 <div class="section">
+<p style="padding: 2%" class="text-center"><i>Content Programming in Progress</i></p>
+
     <div class="row">
         <p class="section-header section-header-page" style="color: white">Panels</p>
 
@@ -120,7 +122,7 @@
                 <div class="team-area">Quandela (France) </div>
             </div>
             <div class="team col-md-6"><a href="speakers.php">
-                <img class="panel-picture" src="assets/images/speakers/Cedric_O_Headshot.jpg"></a>
+                <img class="panel-picture" src="assets/images/speakers/cedric_favier.jpeg"></a>
                 <div class="team-name">Cédric Favier</div>
                 <div class="team-role">Investment Director</div>
                 <div class="team-area">Elaia Ventures (France) </div>
