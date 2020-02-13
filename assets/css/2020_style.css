@@ -255,6 +255,7 @@ h5 {
 
 .section {
     padding: 40px 15%;
+    padding-top: 10vh;
     font-size: 1em;
     /* background-color: white; */
 }
