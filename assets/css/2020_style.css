@@ -1691,7 +1691,7 @@ p {
 
 .agenda-header p {
     color: white;
-    font-family: "DIN";
+    font-family: "Helvetica Neue Bold", sans-serif;
     font-size: 2vw;
 }
 
@@ -1702,8 +1702,12 @@ p {
     box-shadow: 1px 1px 0px rgb(0, 0, 0), 2px 2px 0px rgb(0, 0, 0), 3px 3px 0px rgb(2, 2, 2), 4px 4px 0px rgb(0, 0, 0), 5px 5px 0px rgb(0, 0, 0), 6px 6px 0px rgb(0, 0, 0);
 }
 
+.agenda-white a {
+    text-decoration: none;
+}
+
 .agenda-blue {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.5);
     padding: 5px;
     margin: 5px;
 }
@@ -1723,19 +1727,20 @@ p {
 
 .agenda-black {
     color: black;
-    font-size: 0.7em;
+    font-size: 0.9em;
 }
 
 .agenda-black:hover {
     color: black;
     font-weight: 900;
-    font-size: 0.7em;
+    font-size: 0.9em;
+    text-decoration: none;
 }
 
 .agenda-time {
     color: black;
     font-style: italic;
-    font-size: 0.7em;
+    font-size: 1em;
     margin: 5%;
 }
 
