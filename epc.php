@@ -5,11 +5,11 @@
 
 <div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_4.jpg');">
     <div class="header-overlay">
-        <h1 class="parallax-text-small">
-            <i>The 2020 MIT Global Startup Workshop</i>
-        </h1>
         <h1 class="parallax-text-large">
             <i>Elevator Pitch Competition</i>
+        </h1>
+        <h1 class="parallax-text-small">
+            <i>The 2020 MIT Global Startup Workshop</i>
         </h1>
     </div>
 </div>
@@ -37,7 +37,8 @@
 
     <div class="row text-center">
         <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_4Ph3eoy0aLnOX5P?fbclid=IwAR3mZy3mnn6quniFePJ0UbTAQMW4coPGMqi1A0moyn_hR6xxYoX3sRUy_QQ">Apply Here</a>
-        <p>BY FRIDAY, 14th FEBRUARY 2020 (Deadline Extended from 24th January)</p>
+        <p>BY FRIDAY, 21st FEBRUARY 2020</p>
+        <p>Now acception applications in French!!!</p>
     </div>
 </div>
 
@@ -111,8 +112,8 @@
                 <p>The main deadlines:</p>
 
                 <ul class="a"> 
-                    <li>Friday, 14th February 2020: Application Deadline (Deadline Extended from 24th January)</li>
-                    <li>Friday, 21st February 2020: Individual Selections Announced</li>
+                    <li>Friday, 21st February 2020: Application Deadline</li>
+                    <li>Tuesday, 25th February 2020: Individual Selections Announced</li>
                     <li>Friday, 28th February 2020: Individual Confirmations Due</li>
                     <li>Early March 2020: Mandatory 1st Mentorship Session with MIT Entrepreneurs</li>
                     <li>Monday, 23rd March 2020: Final Mentorship session at GSW</li>

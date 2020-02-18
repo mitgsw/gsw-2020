@@ -5,11 +5,11 @@
 
 <div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_5.jpg');">
     <div class="header-overlay">
-        <h1 class="parallax-text-small">
-            <i>The 2020 MIT Global Startup Workshop</i>
-        </h1>
         <h1 class="parallax-text-large">
             <i>Startup Showcase</i>
+        </h1>
+        <h1 class="parallax-text-small">
+            <i>The 2020 MIT Global Startup Workshop</i>
         </h1>
     </div>
 </div>

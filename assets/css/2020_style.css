@@ -383,7 +383,7 @@ p {
     font-weight: 800;
     text-align: center;
     color: black;
-    z-index: 5;
+    z-index: 300;
     position: relative;
 }
 

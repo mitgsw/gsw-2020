@@ -5,7 +5,6 @@
 
 <div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/team/team-min.jpg');">
     <div class="header-overlay">
-        
         <h1 class="parallax-text-large">
             <i>Team</i>
         </h1>
@@ -13,6 +12,7 @@
             <i>The 2020 MIT Global Startup Workshop</i>
         </h1>
     </div>
+
 </div>
 
 <body style="background-color: black">
