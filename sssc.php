@@ -92,8 +92,8 @@
             <div class="comp-info">
                 <p>Who should apply? </p>
                 <ul class="a">
-                    <li>The Sustainable Society Startup Competition is for startups of all stages with original ideas on 
-                    how to solve pressing social and environmental issues facing the Alps.</li>
+                    <li>The Sustainable Society Startup Competition is for startups of all stages with original ideas on how to solve 
+                    pressing social and environmental issues facing communities.</li>
                     <li>Ventures must fall under at least one of the following or allied categories: Renewable Energy, Clean Energy, Agriculture & Food Sustainability, 
                     Social Impact and Climate Change, BioMedical and Deep Tech., Infrastructure, Sustainable Cities and communities, Water.</li>
                     <li>Full rules can be found <a href="assets/doc/sssc.pdf">here.</a></li>
