@@ -37,8 +37,8 @@
     </div> -->
 
     <div class="row text-center">
-        <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_blV5vyXlw6KksPb?fbclid=IwAR0ZNzznBA5hmwgzuIVMEcHdLxOeAarpLItMqrYsnEwTiKDq3TI0k0VND9I">Apply Here</a>
-        <p>BY FRIDAY, 14th FEBRUARY 2020</p>
+        <!-- <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_blV5vyXlw6KksPb?fbclid=IwAR0ZNzznBA5hmwgzuIVMEcHdLxOeAarpLItMqrYsnEwTiKDq3TI0k0VND9I">Apply Here</a> -->
+        <p>APPLICATIONS CLOSED</p>
     </div>
 </div>
 
