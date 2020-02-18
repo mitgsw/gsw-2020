@@ -1715,7 +1715,8 @@ p {
 /* AGENDA CSS */
 
 .agenda-header {
-    background-color: rgba(255, 255, 255, 0.3);
+    /* background-color: rgba(255, 255, 255, 0.3); */
+    background-color: rgba(190, 165, 236, 0.514);
     outline: 4px solid white;
     margin: 5px;
     max-height: 100px;
@@ -1739,7 +1740,7 @@ p {
 }
 
 .agenda-blue {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(190, 165, 236, 0.514);
     padding: 5px;
     margin: 5px;
 }
@@ -1757,23 +1758,38 @@ p {
     box-shadow: 1px 1px 0px rgb(0, 0, 0), 2px 2px 0px rgb(0, 0, 0), 3px 3px 0px rgb(2, 2, 2), 4px 4px 0px rgb(0, 0, 0), 5px 5px 0px rgb(0, 0, 0), 6px 6px 0px rgb(0, 0, 0);
 }
 
-.agenda-black {
+.agenda-black,
+.agenda-text-white {
     color: black;
     font-size: 0.9em;
 }
 
-.agenda-black:hover {
+.agenda-black:hover,
+.agenda-text-white:hover {
     color: black;
     font-weight: 900;
     font-size: 0.9em;
     text-decoration: none;
 }
 
-.agenda-time {
+.agenda-text-white {
+    color: white;
+}
+
+.agenda-text-white:hover {
+    color: white;
+}
+
+.agenda-time,
+.agenda-time-white {
     color: black;
     font-style: italic;
     font-size: 1em;
     margin: 5%;
+}
+
+.agenda-time-white {
+    color: white;
 }
 
 

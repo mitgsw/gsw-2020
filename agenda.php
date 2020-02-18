@@ -35,10 +35,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:00 - 08:45</h2>
+                <h2 class="agenda-time-white"> 08:00 - 08:45</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Registration</h5>
+                <h5 class="agenda-text-white"> Registration</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -81,10 +81,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 10:15 - 10:45</h2>
+                <h2 class="agenda-time-white"> 10:15 - 10:45</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Networking and Coffee Break</h5>
+                <h5 class="agenda-text-white"> Networking and Coffee Break</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -152,10 +152,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 16:00 - 16:30</h2>
+                <h2 class="agenda-time-white"> 16:00 - 16:30</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Networking and Coffee Break</h5>
+                <h5 class="agenda-text-white"> Networking and Coffee Break</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -177,10 +177,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:15 - 18:15</h2>
+                <h2 class="agenda-time-white"> 17:15 - 18:15</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Networking</h5>
+                <h5 class="agenda-text-white"> Networking</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -207,12 +207,12 @@
             <p color="black"> Tuesday March 24, 2020</p>
         </div>
         <br><br><br><br>
-        <div class="col-lg-12 agenda-white">
+        <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 08:00 - 08:30</h2>
+                <h2 class="agenda-time-white"> 08:00 - 08:30</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Registration</h5>
+                <h5 class="agenda-text-white"> Registration</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -229,10 +229,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 09:15 - 09:45</h2>
+                <h2 class="agenda-time-white"> 09:15 - 09:45</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Networking and Coffee Break</h5>
+                <h5 class="agenda-text-white"> Networking and Coffee Break</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -298,10 +298,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 15:15 - 15:45</h2>
+                <h2 class="agenda-time-white"> 15:15 - 15:45</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Networking and Coffee Break</h5>
+                <h5 class="agenda-text-white"> Networking and Coffee Break</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -334,10 +334,10 @@
 
         <div class="col-lg-12 agenda-blue">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 18:30 - 20:30</h2>
+                <h2 class="agenda-time-white"> 18:30 - 20:30</h2>
             </div>
             <div class="col-sm-6">
-                <h5 class="agenda-black"> Closing Drinks and Appetizers</h5>
+                <h5 class="agenda-text-white"> Closing Drinks and Appetizers</h5>
             </div>
             <div class="col-sm-3"></div>
         </div>
