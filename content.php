@@ -4,7 +4,7 @@
 ?>
 
 <div class="parallax-window header2" data-parallax="scroll">
-    <div class="header-blank" style="background-image: url('assets/images/light/gren 9.jpg');">
+    <div class="header-blank" style="background-image: url('assets/images/light/Panel 01.jpg');">
         <h1 class="parallax-text-large">
             <i>Content</i>
         </h1>
