@@ -17,8 +17,8 @@
 
 </head>
 
-<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_2.JPG');"> 
-    <div class="header-overlay">
+<div class="parallax-window header2" data-parallax="scroll"> 
+    <div class="header-blank" style="background-image: url('assets/images/light/gren 2.jpg');">
         <h1 class="parallax-text-large">
             <i>About</i>
         </h1>

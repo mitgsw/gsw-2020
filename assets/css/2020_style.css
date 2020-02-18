@@ -345,6 +345,26 @@ p {
     /* background-origin: padding-box;
     padding: 20px; */
     /* padding-left: 5%; */
+    padding: 20px;
+}
+
+.header-blank {
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
+
+.header-blank:after {
+    content: "";
+    position: absolute;
+    z-index: 1;
+    /* bottom: 0; */
+    left: 0;
+    pointer-events: none;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgb(0, 0, 0) 90%);
+    width: 100%;
+    height: 70px;
 }
 
 .header-overlay {
@@ -399,6 +419,18 @@ p {
 
 .parallax-text-large {
     padding-top: 250px;
+    font-size: 80px;
+    font-weight: 800;
+    text-align: center;
+    color: black;
+    z-index: 5;
+    position: relative;
+    font-family: "Helvetica Neue Ultra Light";
+    /* font-family: "Helvetica Neue Thin"; */
+}
+
+.parallax-text-large2 {
+    padding-top: 162px;
     font-size: 80px;
     font-weight: 800;
     text-align: center;

@@ -3,8 +3,8 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_5.jpg');">
-    <div class="header-overlay">
+<div class="parallax-window header2" data-parallax="scroll">
+    <div class="header-blank" style="background-image: url('assets/images/light/gren 5.jpg');"> 
         <h1 class="parallax-text-large">
             <i>Startup Showcase</i>
         </h1>

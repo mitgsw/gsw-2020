@@ -3,9 +3,9 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_6.JPG');">
-    <div class="header-overlay">
-        <h1 class="parallax-text-large">
+<div class="parallax-window header2" data-parallax="scroll">
+    <div class="header-blank" style="background-image: url('assets/images/light/gren 6.jpg');">
+        <h1 class="parallax-text-large2">
             <i>Sustainable Society Startup Challenge</i>
         </h1>
         <h1 class="parallax-text-small">

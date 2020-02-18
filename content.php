@@ -3,13 +3,13 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header2" data-parallax="scroll" style="background-image: url('assets/images/grenoble/gren_9.JPG');">
-    <div class="header-overlay">
-        <h1 class="parallax-text-small">
-            <i>The 2020 MIT Global Startup Workshop</i>
-        </h1>
+<div class="parallax-window header2" data-parallax="scroll">
+    <div class="header-blank" style="background-image: url('assets/images/light/gren 9.jpg');">
         <h1 class="parallax-text-large">
             <i>Content</i>
+        </h1>
+        <h1 class="parallax-text-small">
+            <i>The 2020 MIT Global Startup Workshop</i>
         </h1>
     </div>
 </div>
