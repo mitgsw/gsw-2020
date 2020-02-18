@@ -1316,7 +1316,7 @@ p {
     margin-bottom: 5px;
     font-size: 2.0em;
     color: white;
-    font-family: "Helvetica Neue Condensed Bold";
+    font-family: "Helvetica Neue Bold";
     text-transform: uppercase;
 }
 
@@ -1482,7 +1482,7 @@ p {
     margin-bottom: 5px;
     font-size: 1.7em;
     color: white;
-    font-family: "Helvetica Neue Condensed Bold";
+    font-family: "Helvetica Neue Bold";
 }
 
 .team-association,
@@ -1561,7 +1561,7 @@ p {
     font-weight: 800;
     font-size: 1.5em;
     color: rgba(255, 255, 255, 1);
-    font-family: "Helvetica Neue Condensed Bold";
+    font-family: "Helvetica Neue Bold";
 }
 
 .team-expanded-role {
