@@ -28,12 +28,12 @@
 
     <div class="row text-center" style="margin: auto; width:85%">
 
-        <div class="col-lg-12 agenda-header">
+        <div class="col-sm-12 agenda-header">
             <p color="black"> Monday March 23, 2020</p>
         </div>
         <br><br><br><br>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 08:00 - 08:45</h2>
             </div>
@@ -42,7 +42,7 @@
             </div>
             <div class="col-sm-3"></div>
         </div>
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 08:45 - 09:00</h2>
             </div>
@@ -53,7 +53,7 @@
         </div>
 
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 09:00 - 09:30</h2>
             </div>
@@ -66,7 +66,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 09:30 - 10:15</h2>
             </div>
@@ -79,7 +79,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 10:15 - 10:45</h2>
             </div>
@@ -89,7 +89,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 10:45 - 12:00</h2>
             </div>
@@ -105,7 +105,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 12:00 - 13:30</h2>
             </div>
@@ -121,7 +121,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 13:30 - 14:45</h2>
             </div>
@@ -136,7 +136,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 14:45 - 16:00</h2>
             </div>
@@ -150,7 +150,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 16:00 - 16:30</h2>
             </div>
@@ -160,7 +160,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 16:30 - 17:15</h2>
             </div>
@@ -175,7 +175,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 17:15 - 18:15</h2>
             </div>
@@ -185,7 +185,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 18:15</h2>
             </div>
@@ -203,11 +203,11 @@
 
     <div class="row text-center" style="margin: auto; width:85%">
 
-        <div class="col-lg-12 agenda-header">
+        <div class="col-sm-12 agenda-header">
             <p color="black"> Tuesday March 24, 2020</p>
         </div>
         <br><br><br><br>
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 08:00 - 08:30</h2>
             </div>
@@ -217,7 +217,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 08:30 - 09:15</h2>
             </div>
@@ -227,7 +227,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 09:15 - 09:45</h2>
             </div>
@@ -237,7 +237,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 09:45 - 11:00</h2>
             </div>
@@ -252,7 +252,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 11:00 - 12:30</h2>
             </div>
@@ -265,7 +265,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 12:30 - 14:00</h2>
             </div>
@@ -281,7 +281,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 14:00-15:15</h2>
             </div>
@@ -296,7 +296,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 15:15 - 15:45</h2>
             </div>
@@ -306,7 +306,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 15:45 - 17:45</h2>
             </div>
@@ -319,7 +319,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-white">
+        <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 17:45 - 18:30</h2>
             </div>
@@ -332,7 +332,7 @@
             <div class="col-sm-3"></div>
         </div>
 
-        <div class="col-lg-12 agenda-blue">
+        <div class="col-sm-12 agenda-blue">
             <div class="col-sm-3">
                 <h2 class="agenda-time-white"> 18:30 - 20:30</h2>
             </div>

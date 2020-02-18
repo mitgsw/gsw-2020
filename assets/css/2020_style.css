@@ -2084,6 +2084,9 @@ p {
 }
 
 @media only screen and (max-width: 479px) {
+    .header-blank:after {
+        height: 85px;
+    }
     .partner-logo-mobile {
         height: 50px;
         width: auto;
