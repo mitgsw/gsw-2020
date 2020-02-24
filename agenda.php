@@ -321,13 +321,26 @@
 
         <div class="col-sm-12 agenda-white">
             <div class="col-sm-3">
-                <h2 class="agenda-time"> 17:45 - 18:30</h2>
+                <h2 class="agenda-time"> 17:45 - 18:15</h2>
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
                 <a href="panels.php#keynote-danielle"><h2 style="font-weight: 900" class="agenda-black"> Cedric O</h2></a>
                 <i><h4 class="agenda-black"> Secretary of State for Digital Affairs, France </h4></i>
 
+            </div>
+            <div class="col-sm-3"></div>
+        </div>
+
+        <div class="col-sm-12 agenda-white">
+            <div class="col-sm-3">
+                <h2 class="agenda-time"> 18:15 - 18:30</h2>
+            </div>
+            <div class="col-sm-6">
+                <a href='epc.php'><div class="agenda-showcase">
+                    <h2 class="agenda-black"> Startup Showcase Awards</h2>
+                </div></a>
+                <br>
             </div>
             <div class="col-sm-3"></div>
         </div>

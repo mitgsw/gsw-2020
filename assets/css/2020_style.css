@@ -1841,8 +1841,8 @@ p {
 
 .panel-picture {
     object-fit: cover;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     margin-bottom: 10px;
 }
@@ -2074,6 +2074,20 @@ p {
     width: 100%;
 }
 
+.why-img {
+    width: 35vw;
+    height: 50vh;
+    padding: 10px;
+    /* display: inline-block; */
+}
+
+.why-map {
+    width: 35vw;
+    height: 50vh;
+    padding: 10px;
+    display: inline-block;
+}
+
 
 /* FOR MOBILE */
 
@@ -2276,13 +2290,13 @@ p {
         font-size: 4vw;
     }
     .why-img {
-        width: 50vw;
+        width: 40vw;
         height: 40vw;
         padding: 10px;
         display: inline-block;
     }
     .why-map {
-        width: 50vw;
+        width: 40vw;
         height: 40vw;
         padding: 10px;
         display: inline-block;

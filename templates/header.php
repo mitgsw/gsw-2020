@@ -210,6 +210,34 @@ function auto_version($file)
 
 <div class="section">
     <div class="text-center">
+        <i> <p style="font-size: 4vh"> THE VENUE</p> </i>
+    </div>
+    <div class="line">
+
+    </div>
+    <div class="text-center">
+        <p>Maison MINATEC</p>
+        <p>3 Parvis Louis Néel, 38000 Grenoble, France</p>
+    </div>
+    <br>
+    <!-- <div class="col-sm-12 text-center">
+        <img class="why-img" src="assets/images/splash/venue.png" />
+    </div> -->
+    <div class="row">
+        <div class="col-xs-6">
+            <iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;q=3%20Parvis%20Louis%20N%C3%A9el%2C%2038000%20Grenoble%2C%20France+(Maison%20MINATEC)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+                <a href="https://www.maps.ie/coordinates.html">find my coordinates</a>
+            </iframe>
+        </div>
+        <div class="col-xs-6">
+            <img class="why-img" src="assets/images/splash/venue.png" />
+        </div>
+    </div>
+    
+</div>
+
+<div class="section">
+    <div class="text-center">
         <i> <p style="font-size: 4vh"> GET NOTIFIED</p> </i>
     </div>
 

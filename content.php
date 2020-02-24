@@ -71,17 +71,23 @@
         </div>
 
         <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Fulvia_Farinelli.png"></a>
                 <div class="team-name">Fulvia Farinelli</div>
                 <div class="team-role"> Economic Officer </div>
                 <div class="team-area">United Nations (Switzerland)</div>
             </div>
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Diana-Brondel.jpg"></a>
                 <div class="team-name">Diana Brondel</div>
                 <div class="team-role"> Founder & CEO </div>
                 <div class="team-area">Xaalys (France)</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/François-Marie_Geslin.jpg"></a>
+                <div class="team-name">François-Marie Geslin</div>
+                <div class="team-role"> Vice-President CSR </div>
+                <div class="team-area">AG2R La Mondiale (France)</div>
             </div>
         </div>
         <div class="col-md-12 text-center">
@@ -115,18 +121,24 @@
         </p>
         </div>
         <div class="col-md-12 text-center">
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Valerian_Giesz.jpg"></a>
                 <div class="team-name">Valerian Giesz</div>
                 <div class="team-role">Co-Founder & CEO </div>
                 <div class="team-area">Quandela (France) </div>
             </div>
-            <!-- <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/cedric_favier.jpeg"></a>
                 <div class="team-name">Cédric Favier</div>
                 <div class="team-role">Investment Director</div>
                 <div class="team-area">Elaia Ventures (France) </div>
-            </div> -->
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Jill.png"></a>
+                <div class="team-name">Dr. Jill Becker</div>
+                <div class="team-role">CEO</div>
+                <div class="team-area">Kebotix (US) </div>
+            </div>
         </div>
     </div>
 
@@ -143,6 +155,27 @@
             help create a more innovative culture, and source external solutions to internal challenges. 
             And for startups, corporates can be a source of funding and valuable connections. But even when 
             corporates and startups are willing to work together, how can they make sure they do it right? </p>
+        </div>
+
+        <div class="col-md-12 text-center">
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Marie Marraud des Grottes.jpg"></a>
+                <div class="team-name">Marie Marraud Des Grottes</div>
+                <div class="team-role">Digital Innovation Strategy Project Leader</div>
+                <div class="team-area">Tessi (France) </div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Thierry_Fensch.jpg"></a>
+                <div class="team-name">Thierry Fensh</div>
+                <div class="team-role">Director of Innovation</div>
+                <div class="team-area">Collaborations and R&D Efficiency, STMicroelectronics (France)</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Christophe_Chazot.jpg"></a>
+                <div class="team-name">Christophe Chazot</div>
+                <div class="team-role">President</div>
+                <div class="team-area">MIT Club of France (France)</div>
+            </div>
         </div>
 
         <div class="col-md-12 text-center">
@@ -181,17 +214,23 @@
 
         <div class="col-md-12 text-center">
             
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Chris_Howard.jpg"></a>
                 <div class="team-name">Chris Howard</div>
                 <div class="team-role">CEO & Co-Founder</div>
                 <div class="team-area">The Rattle Collective (UK)</div>
             </div>
-            <div class="team col-md-6"><a href="speakers.php">
+            <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Nektarios_Liolios.jpeg"></a>
                 <div class="team-name">Nektarios Liolios</div>
                 <div class="team-role"> Co-Founder</div>
                 <div class="team-area">Rainmaking Innovation  (UK & Greece)</div>
+            </div>
+            <div class="team col-md-4"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Amiel_Kornel.jpg"></a>
+                <div class="team-name">Amil Kornel</div>
+                <div class="team-role"> Senior Advisor</div>
+                <div class="team-area">BlueMount Capital (France)</div>
             </div>
         </div>
     </div>
@@ -246,6 +285,21 @@
             to usher in an era of unprecedented medical and biotech innovation. Learn from innovators at the nexus of medicine, 
             engineering, and entrepreneurship as they discuss their experiences in navigating the rapidly growing biotechnology 
             space and share advice for those looking to enter it. </p>
+        </div>
+        <div class="col-md-12 text-center">
+            
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Austin_Che.jpg"></a>
+                <div class="team-name">Austin Che</div>
+                <div class="team-role">Co-Founder</div>
+                <div class="team-area"> Ginkgo Bioworks (US)</div>
+            </div>
+            <div class="team col-md-6"><a href="speakers.php">
+                <img class="panel-picture" src="assets/images/speakers/Alex.png"></a>
+                <div class="team-name">Alexis Turjman</div>
+                <div class="team-role"> CEO</div>
+                <div class="team-area">Cognition Medical (US)</div>
+            </div>
         </div>
 
         <div class="col-md-12 text-center">

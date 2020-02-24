@@ -73,7 +73,7 @@
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1" style="right: 0">
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
             <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
-            <!-- <li><a href="reg.php">Registration</a></li> -->
+            <li><a href="reg.php">Registration</a></li>
             <li><a href="comp.php">Competitions</a></li>
             <li><a href="speakers.php">Speakers</a></li>
             <li><a href="content.php">Content</a></li>

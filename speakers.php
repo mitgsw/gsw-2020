@@ -23,10 +23,10 @@
     with us! Click on each speaker to learn more about their background and accomplishments.
     </p>
     <p style="padding: 2%" class="text-center"><i>Content Programming in Progress</i></p>
-    <div class="col-lg-12 comp-content" id="plenary-section-expanded">
+    <div class="col-sm-12 comp-content" id="plenary-section-expanded">
         <div class="section-header section-header-page" style="color: white">Plenary</div>
         <div class="row speaker-expanded-bio">
-            <div class="col-md-3"></div>
+            <div class="col-sm-3"></div>
             <div class="col-md-9"></div>
         </div>
     </div>
@@ -35,21 +35,21 @@
 
 
 <div class=section> 
-    <div class="col-lg-12 comp-content" id="keynote-section-expanded">
+    <div class="col-sm-12 comp-content" id="keynote-section-expanded">
         <div class="section-header section-header-page" style="color: white">Keynote</div>
         <div class="row speaker-expanded-bio">
-            <div class="col-md-3"></div>
-            <div class="col-md-9"></div>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-9"></div>
         </div>
     </div>
 </div>
 
 <div class=section> 
-    <div class="col-lg-12 comp-content" id="speaker-section-expanded">
+    <div class="col-sm-12 comp-content" id="speaker-section-expanded">
         <div class="section-header section-header-page" style="color: white">Speakers</div>
         <div class="row speaker-expanded-bio">
-            <div class="col-md-3"></div>
-            <div class="col-md-9"></div>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-9"></div>
         </div>
     </div>
 </div>

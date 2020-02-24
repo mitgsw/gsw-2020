@@ -3,8 +3,8 @@
     include('templates/nav-bar.php');
 ?>
 
-<div class="parallax-window header" data-parallax="scroll" style="background-image: url('assets/images/team/team-min.jpg');">
-    <div class="header-overlay">
+<div class="parallax-window header2" data-parallax="scroll">
+    <div class="header-blank" style="background-image: url('assets/images/team/team-2.jpg');">
         <h1 class="parallax-text-large">
             <i>Team</i>
         </h1>
@@ -30,11 +30,11 @@
 </div> -->
 
 <div class="section">
-    <div class="col-lg-12 comp-content" id="team-expanded">
+    <div class="col-sm-12 comp-content" id="team-expanded">
         <div class="section-header section-header-page" style="color: white">Team</div>
         <div class="row speaker-expanded-bio">
-            <div class="col-md-3"></div>
-            <div class="col-md-9"></div>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-9"></div>
         </div>
     </div>
     <!-- <br><br><br><br><br><br><br><br><br><br> -->
@@ -43,11 +43,11 @@
 
 
 <div class=section> 
-    <div class="col-lg-12 comp-content" id="bios">
+    <div class="col-sm-12 comp-content" id="bios">
         <div class="section-header section-header-page" style="color: white">About</div>
         <div class="row speaker-expanded-bio">
-            <div class="col-md-3"></div>
-            <div class="col-md-9"></div>
+            <div class="col-sm-3"></div>
+            <div class="col-sm-9"></div>
         </div>
     </div>
 </div>
