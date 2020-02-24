@@ -17,7 +17,7 @@ function linkify(inputText) {
 }
 
 function getSpeakers() {
-    var filename = 'assets/data/speakers.csv'
+    var filename = 'assets/data/speakers2.csv'
     Papa.parse(filename, {
         download: true,
         header: true,
@@ -92,7 +92,7 @@ function getSpeakers() {
                     // associationMarkup +
                     '<img class="team-picture" src=\'assets/images/speakers/' + path + '\'>' +
                     '<div class="team-name">' + name + '</div>' +
-                    '<div class="team-role-title" style="font-size: 0.9em">' + job + '</div>' +
+                    '<div class="team-role-title" style="font-size: 0.8em">' + job + '</div>' +
                     '<div class="team-role" style="font-size: 0.9em">' + place + '</div>' +
                     // '<a href="' + linkedIn + '" <i style="font-size:10px" class="fa">&#xf08c;</i></a>' +
                     // '<a href="' + linkedIn + '" <img src=\'images/logo/linkedin-gray.png\'></a>' +
