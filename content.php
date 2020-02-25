@@ -121,19 +121,13 @@
         </p>
         </div>
         <div class="col-md-12 text-center">
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Valerian_Giesz.jpg"></a>
                 <div class="team-name">Valerian Giesz</div>
                 <div class="team-role">Co-Founder & CEO </div>
                 <div class="team-area">Quandela (France) </div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
-                <img class="panel-picture" src="assets/images/speakers/cedric_favier.jpeg"></a>
-                <div class="team-name">Cédric Favier</div>
-                <div class="team-role">Investment Director</div>
-                <div class="team-area">Elaia Ventures (France) </div>
-            </div>
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Jill.png"></a>
                 <div class="team-name">Dr. Jill Becker</div>
                 <div class="team-role">CEO</div>
