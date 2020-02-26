@@ -414,12 +414,12 @@
                 <div class="team-role">Professor</div>
                 <div class="team-area">Grenoble Ecole de Management (France)</div>
             </div>
-            <div class="team col-md-6 text-center"><a href="speakers.php">
+            <!-- <div class="team col-md-6 text-center"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/rami.jpg"></a>
                 <div class="team-name">Rami Abi-Akl, PhD</div>
                 <div class="team-role">Diplomatic Attaché for Science</div>
                 <div class="team-area">Technology and Innovation in the USA (France)</div>
-            </div>
+            </div> -->
         </div>
     </div>
 
