@@ -24,7 +24,7 @@
 
     </div>
 
-    <div class="row" id='panel-askme'>
+    <div class="row" id='panel-startup-success'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Securing Startup Success</h5>
@@ -55,7 +55,7 @@
         <br>
     </div>
 
-    <div class="row" id='panel-advanced'>
+    <div class="row" id='panel-diversity'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Catalyzing Diversity & Inclusion in Entrepreneurship</h5>
@@ -106,7 +106,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel-pathways'>
+    <div class="row" id='panel-research-deep'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black">The Research to Deep Tech Product Roadmap</h5>
@@ -136,7 +136,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel-building'>
+    <div class="row" id='panel-corporate'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Corporate-Startup Collaboration</h5>
@@ -173,31 +173,31 @@
         </div>
 
         <div class="col-md-12 text-center">
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Nektarios_Liolios.jpeg"></a>
                 <div class="team-name">Nektarios Liolios</div>
                 <div class="team-role"> Co-Founder</div>
                 <div class="team-area">Rainmaking Innovation  (UK & Greece)</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
+            <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Dipul_Patel.jpg"></a>
-                <div class="team-name">Dip Patel</div>
+                <div class="team-name">Dip Patel (Moderator)</div>
                 <div class="team-role">CTO, Soluna</div>
                 <div class="team-area">Entrepreneur-in-Residence, MIT Martin Trust Center (US)</div>
             </div>
-            <div class="team col-md-4"><a href="speakers.php">
+            <!-- <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/lea.jpg"></a>
                 <div class="team-name">Léa Peersman Pujol (Moderator)</div>
                 <div class="team-role">People & Organizational Development</div>
                 <div class="team-area">CHANEL (France)</div>
-            </div>
+            </div> -->
         </div>
     </div>
 
-    <div class="row" id='panel-success'>
+    <div class="row" id='panel-venture'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
-                <h5 style="font-weight: 900" class="agenda-black"> Securing Venture Capital/Funding</h5>
+                <h5 style="font-weight: 900" class="agenda-black"> Securing Venture Capital & Funding</h5>
             </div>
         </div>
         <br>
@@ -218,7 +218,7 @@
                 <img class="panel-picture" src="assets/images/speakers/Nektarios_Liolios.jpeg"></a>
                 <div class="team-name">Nektarios Liolios</div>
                 <div class="team-role"> Co-Founder</div>
-                <div class="team-area">Rainmaking Innovation  (UK & Greece)</div>
+                <div class="team-area">Rainmaking Innovation  (Europe)</div>
             </div>
             <div class="team col-md-4"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Amiel_Kornel.jpg"></a>
@@ -229,7 +229,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel-building'>
+    <div class="row" id='panel-sustain'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Innovating a Sustainable Tomorrow</h5>
@@ -266,7 +266,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel-success'>
+    <div class="row" id='panel-med'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Building a Healthy MedTech Business</h5>
@@ -313,7 +313,7 @@
         </div>
     </div>
 
-    <div class="row" id='panel-building'>
+    <div class="row" id='panel-innovation'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Developing an Innovation Ecosystem</h5>
@@ -332,7 +332,7 @@
         <div class="col-md-12 text-center">
             <div class="team col-md-6"><a href="speakers.php">
                 <img class="panel-picture" src="assets/images/speakers/Travis_Hunter.png"></a>
-                <div class="team-name">Travis Hunter (Moderator)</div>
+                <div class="team-name">Travis Hunter</div>
                 <div class="team-role">Associate Director</div>
                 <div class="team-area">MIT Regional Entrepreneurship Acceleration Program (US)</div>
             </div>
@@ -379,7 +379,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop-founder'>
+    <div class="row" id='workshop-deep'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black">Deep Tech It!</h5>
@@ -423,7 +423,7 @@
         </div>
     </div>
 
-    <div class="row" id='workshop-creating'>
+    <div class="row" id='workshop-dis'>
         <div class="col-sm-12 panel-top text-center">
             <div class="col-sm-12 panel-header">
                 <h5 style="font-weight: 900" class="agenda-black"> Disciplined Entrepreneurship (2 Part Workshop)</h5>
