@@ -19,10 +19,10 @@
 <div class="section">
     <p class="competition-slogan">We look forward to having you join us for the 2020 MIT GSW in the Alps!</p>   
 
-    <p>For general admission tickets, please directly register HERE (link will be live soon!).</p>
+    <p>For <strong>general admission</strong> tickets, please directly register <a href="http://gsw-mit-edu2020.inviteo.fr/">HERE</a>.</p>
 
-    <p>For current students, please apply for DISCOUNTED admission <a href="https://forms.gle/53JS8XUF7cjWXmV48">HERE</a>. </p>   
-    <p>For entrepreneurs interested in attending, please apply for one of the various competitions or 
+    <p>For <strong>current students</strong>, please apply for DISCOUNTED admission <a href="https://forms.gle/53JS8XUF7cjWXmV48">HERE</a>. </p>   
+    <p>For <strong>entrepreneurs</strong> interested in attending, please apply for one of the various competitions or 
     startup showcases occurring throughout the event <a href="http://gsw.mit.edu/2020/comp.php">HERE</a>. </p> 
     <p>Notification of selection for students and entrepreneurs into competition finals will be sent out 
     during March at which point those selected will be provided promo codes that will allow them to 

@@ -44,8 +44,10 @@
     </div> -->
 
     <div class="row text-center">
-        <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_8InqJGFRs5Huwfz">Apply Here</a>
-        <p>BY MONDAY, 24th FEBRUARY 2020</p>
+        <!-- <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_8InqJGFRs5Huwfz">Apply Here</a>
+        <p>BY MONDAY, 24th FEBRUARY 2020</p> -->
+        <p>APPLICATIONS CLOSED</p>
+
     </div>
 </div>
 

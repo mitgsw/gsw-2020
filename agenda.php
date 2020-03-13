@@ -62,9 +62,9 @@
             <div class="col-sm-3">
                 <h2 class="agenda-time"> 09:30 - 10:15</h2>
             </div>
-            <a href='panels.php#keynote-kane'> <div class="col-sm-6">
+            <a href='content.php#keynote-kane'> <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="panels.php#keynote-kane"><h2 style="font-weight: 900" class="agenda-black"> Bill Aulet</h2></a>
+                <a href="content.php#keynote-kane"><h2 style="font-weight: 900" class="agenda-black"> Bill Aulet</h2></a>
                 <i><h4 style="font-weight: 900" class="agenda-black"> Managing Director, Martin Trust Center for MIT Entrepreneurship</h4></i>
                 <!-- <i><h5 class="agenda-black"> Professor, MIT Sloan; Vice Chairman, One Laptop Per Child</h5></i> -->
             </div> </a>
@@ -87,10 +87,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <a href='panels.php#panel-askme'><h4 style="font-weight: 900" class="agenda-black"> Securing Startup Success</h4></a>
+                <a href='content.php#panel-startup-success'><h4 style="font-weight: 900" class="agenda-black"> Securing Startup Success</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshop</h5>
-                <a href='panels.php#fireside-innovation'><h4 style="font-weight: 900" class="agenda-black"> Disciplined Entrepreneurship (Part 1)</h4></a>
+                <a href='content.php#workshop-dis'><h4 style="font-weight: 900" class="agenda-black"> Disciplined Entrepreneurship (Part 1)</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Fireside Chat</h5>
             </div>
@@ -102,9 +102,9 @@
                 <h2 class="agenda-time"> 12:00 - 13:30</h2>
             </div>
             <div class="col-sm-6">
-                <a href="efair.php"><div class="agenda-showcase">
+                <a href="showcase.php"><div class="agenda-showcase">
                     <h2 class="agenda-black"> Startup Showcase</h2>
-                    <a href='bpc.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing semi-finalist and finalist startups</h4></a>
+                    <a href='showcase.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing semi-finalist and finalist startups</h4></a>
                 </div>
                 </a>
                 <br>
@@ -119,11 +119,11 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panels</h5>
-                <a href='panels.php#panel-askme'><h4 style="font-weight: 900" class="agenda-black"> Securing Venture Capital/Funding</h4></a>
-                <a href='panels.php#fireside-innovation'><h4 style="font-weight: 900" class="agenda-black"> Catalyzing Diversity & Inclusion in Entrepreneurship</h4></a>
+                <a href='content.php#panel-venture'><h4 style="font-weight: 900" class="agenda-black"> Securing Venture Capital & Funding</h4></a>
+                <a href='content.php#panel-diversity'><h4 style="font-weight: 900" class="agenda-black"> Catalyzing Diversity & Inclusion in Entrepreneurship</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshop</h5>
-                <a href='panels.php#fireside-innovation'><h4 style="font-weight: 900" class="agenda-black"> Disciplined Entrepreneurship (Part 2)</h4></a>
+                <a href='content.php#workshop-dis'><h4 style="font-weight: 900" class="agenda-black"> Disciplined Entrepreneurship (Part 2)</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -134,10 +134,10 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panel</h5>
-                <a href='panels.php#panel-pathways'><h4 style="font-weight: 900" class="agenda-black"> Corporate-Startup Collaboration</h4></a>
+                <a href='content.php#panel-corporate'><h4 style="font-weight: 900" class="agenda-black"> Corporate-Startup Collaboration</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
-                <a href='panels.php#workshop-e101'><h4 style="font-weight: 900" class="agenda-black"> Deep Tech It!</h4></a>
+                <a href='content.php#workshop-deep'><h4 style="font-weight: 900" class="agenda-black"> Deep Tech It!</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -158,7 +158,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Keynote</h5>
-                <a href="panels.php#keynote-lester"><h2 style="font-weight: 900" class="agenda-black"> Dr. Robert Langer</h2></a>
+                <a href="content.php#keynote-lester"><h2 style="font-weight: 900" class="agenda-black"> Dr. Robert Langer</h2></a>
                 <i><h4 style="font-weight: 900" class="agenda-black"> Institute Professor, MIT</h4></i>
                 <!-- <i><h5 class="agenda-black"> Associate Provost for International Affairs, MIT</h5></i> -->
                 <!-- <i><h5 class="agenda-black"> Professor & Former Dept. Head, MIT Nuclear Science and Engineering </h5></i> -->
@@ -235,11 +235,11 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Panels</h5>
-                <a href='panels.php#panel-building'><h4 style="font-weight: 900" class="agenda-black"> Building a Healthy MedTech Business</h4></a>
-                <a href='panels.php#fireside-fintech'><h4 style="font-weight: 900" class="agenda-black">Developing an Innovation Ecosystem</h4></a>
+                <a href='content.php#panel-med'><h4 style="font-weight: 900" class="agenda-black"> Building a Healthy MedTech Business</h4></a>
+                <a href='content.php#panel-innovation'><h4 style="font-weight: 900" class="agenda-black">Developing an Innovation Ecosystem</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshop</h5>
-                <a href='panels.php#fireside-fintech'><h4 style="font-weight: 900" class="agenda-black">Entrepreneurship 101: The "Dumb" Questions No One Asks</h4></a>
+                <a href='content.php#workshop-e101'><h4 style="font-weight: 900" class="agenda-black">Entrepreneurship 101: The "Dumb" Questions No One Asks</h4></a>
             </div>
             <div class="col-sm-3"></div>
         </div>
@@ -262,9 +262,9 @@
                 <h2 class="agenda-time"> 12:30 - 14:00</h2>
             </div>
             <div class="col-sm-6">
-                <a href="efair.php"><div class="agenda-showcase">
+                <a href="showcase.php"><div class="agenda-showcase">
                     <h2 class="agenda-black"> Startup Showcase</h2>
-                    <a href='bpc.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing semi-finalist and finalist startups</h4></a>
+                    <a href='showcase.php'><h4 style="font-weight: 900" class="agenda-black"> Showcasing semi-finalist and finalist startups</h4></a>
                 </div>
                 </a>
                 <br>
@@ -279,8 +279,8 @@
             </div>
             <div class="col-sm-6">
                     <h5 style="text-decoration: underline;" class="agenda-black"> Panels</h5>
-                    <a href='panels.php#workshop-product'><h4 style="font-weight: 900" class="agenda-black"> Innovating a Sustainable Tomorrow</h4></a>
-                    <a href='panels.php#workshop-scaling'><h4 style="font-weight: 900" class="agenda-black"> The Research to Deep Tech Product Roadmap</h4></a>
+                    <a href='content.php#panel-sustain'><h4 style="font-weight: 900" class="agenda-black"> Innovating a Sustainable Tomorrow</h4></a>
+                    <a href='content.php#panel-research-deep'><h4 style="font-weight: 900" class="agenda-black"> The Research to Deep Tech Product Roadmap</h4></a>
                 <br>
                 <h5 style="text-decoration: underline;" class="agenda-black"> Workshops</h5>
                     <h4 style="font-weight: 900" class="agenda-black"> Networking: Making Meaningful Connections (Travis Hunter)</h4>
@@ -303,7 +303,7 @@
                 <h2 class="agenda-time"> 15:45 - 17:45</h2>
             </div>
             <div class="col-sm-6">
-                <a href='epc.php'><div class="agenda-showcase">
+                <a href='sssc.php'><div class="agenda-showcase">
                     <h2 class="agenda-black"> Sustainable Society Startup Challenge Presentations</h2>
                 </div></a>
                 <br>
@@ -317,7 +317,7 @@
             </div>
             <div class="col-sm-6">
                 <h5 style="text-decoration: underline;" class="agenda-black"> Plenary</h5>
-                <a href="panels.php#keynote-danielle"><h2 style="font-weight: 900" class="agenda-black"> Cedric O</h2></a>
+                <a href="content.php#keynote-danielle"><h2 style="font-weight: 900" class="agenda-black"> Cedric O</h2></a>
                 <i><h4 class="agenda-black"> Secretary of State for Digital Affairs, France </h4></i>
 
             </div>
@@ -329,7 +329,7 @@
                 <h2 class="agenda-time"> 18:15 - 18:30</h2>
             </div>
             <div class="col-sm-6">
-                <a href='epc.php'><div class="agenda-showcase">
+                <a href='showcase.php'><div class="agenda-showcase">
                     <h2 class="agenda-black"> Startup Showcase Awards</h2>
                 </div></a>
                 <br>
