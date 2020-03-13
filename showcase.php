@@ -17,6 +17,9 @@
 <body style="background-color: black">
 
 <div class="section">
+    <div class="alert alert-warning" role="alert">
+        We are <strong>no longer accepting</strong> applications for GSW competitions.
+    </div>    
 
         <!-- <div class="section-header section-header-page" style="color: white">Startup Showcase</div> -->
 
@@ -32,13 +35,8 @@
         
         </div>
     
-    <!-- <div class="row">
-        
-    </div> -->
 
     <div class="row text-center">
-        <!-- <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_blV5vyXlw6KksPb?fbclid=IwAR0ZNzznBA5hmwgzuIVMEcHdLxOeAarpLItMqrYsnEwTiKDq3TI0k0VND9I">Apply Here</a> -->
-        <p>APPLICATIONS CLOSED</p>
     </div>
 </div>
 

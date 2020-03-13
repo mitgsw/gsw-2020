@@ -17,7 +17,6 @@ function auto_version($file)
 ?>
 
 <head>
-
     <meta charset="UTF-8">
     <title><?= $pageTitle ?></title>
     <link rel="shortcut icon" href="favicon.ico"/>
@@ -34,6 +33,48 @@ function auto_version($file)
 
 
 <body style="background-color: black">
+
+
+
+<div class="modale opened" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-header">
+      <div>Important update</div>
+      <a href="#" class="btn-close closemodale" aria-hidden="true">&times;</a>
+    </div>
+    <div class="modal-body">
+        <div>
+            The MIT Global Startup Workshop (GSW) 2020 in-person event on March 23 & 24 in Grenoble, France <span class="urgent">has been <strong>cancelled</strong> due to the coronavirus pandemic.</span>
+            <br><br>
+            The collaboration between MIT GSW, Grenoble Ecole de Management and sponsors and stakeholders will continue. We are committed to continuing the GSW competitions and we anticipate sharing content related to MIT GSW 2020 as soon as we can.
+            <br><br>
+            <strong>We wholeheartedly thank everyone for their support with our event!</strong>
+        </div>
+        <div class="modal-footer">
+            <a href="#" class="btn-continue closemodale">Continue to site</a>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+<script src="assets/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $('.closemodale').click(function (e) {
+         e.preventDefault();
+         $('.modale').removeClass('opened');
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
 <div data-parallax="scroll" class="parallax-window main-page-header" style="display:inline-block; background-color: black">
 
     <div class="splash-pic-container ">
@@ -53,81 +94,75 @@ function auto_version($file)
     
 </div>
 
+
+
 <div class="section">
+    <div class="section-header-page text-white">Important update</div>
+    <br>
+
     <div class="text-center">
-        <i><p style="font-size: 4vh"> LEARN MORE ABOUT OUR COMPETITIONS</p></i>
+        <p >The MIT Global Startup Workshop (GSW) 2020 in-person event on March 23 & 24 in Grenoble, France <span class="urgent">has been <strong>cancelled</strong> due to the coronavirus pandemic.</p></span>
+        <br>
+        <p>The collaboration between MIT GSW, Grenoble Ecole de Management and sponsors and stakeholders will continue. We are committed to continuing the GSW competitions and we anticipate sharing content related to MIT GSW 2020 as soon as we can.</p>
+        <br>
+        <p><strong>We wholeheartedly thank everyone for their support with our event!</strong></p>
     </div>
     
+</div>
 
-    <div class="line">
-    </div>
+
+
+
+
+
+
+<div class="section">
+    <div class="section-header-page text-white">Our competitions</div>
     <br>
 
     <div class="comp-wrapper-main">
-        <div class="item1">
+        <div class="comp-button item1">
             <a href="showcase.php">
                 <div class="comp-title text-center">
                     <h2>Startup Showcase</h2>
                 </div>
+                <div class="comp-image text-center">
+                        <img src="assets/images/icons/Icons-Startup.png">
+                </div>
             </a>
         </div>
-        <div class="item2">
+        <div class="comp-button item2">
             <a href="epc.php">
                 <div class="comp-title text-center">
                     <h2>Elevator Pitch Competition</h2>
                 </div>
+                <div class="comp-image text-center">
+                    <img src="assets/images/icons/Icons-Elevator-Pitch.png">
+                </div>
             </a>
         </div>
-        <div class="item3">
+        <div class="comp-button item3">
             <a href="sssc.php">
                 <div class="comp-title text-center">
                     <h2>Sustainable Society Startup Challenge</h2>
                 </div>
-            </a>
-        </div>
-        <div class="item4">
-            <a href="showcase.php">
                 <div class="comp-image text-center">
-                        <!-- <img src="assets/images/comp/startup_showcase.png"> -->
-                        <img src="assets/images/icons/Icons-Startup.png">
-                </div>
-
-            </a>
-        </div>
-        <div class="item5">
-            <a href="epc.php">
-                <div class="comp-image text-center">
-                    <!-- <img src="assets/images/comp/elevator_pitch.png"> -->
-                    <img src="assets/images/icons/Icons-Elevator-Pitch.png">
-                </div>
-
-            </a>
-        </div>
-        <div class="item6">
-            <a href="sssc.php">
-                <div class="comp-image text-center">
-                    <!-- <img src="assets/images/comp/sustainable.png"> -->
                     <img src="assets/images/icons/Icons-Sustainable.png">
                 </div>
             </a>
-
         </div>
     </div>
 </div>
 
 <div class="section white-section">
     
-    <div class="text-center">
-        <i> <p style="font-size: 4vh"> COLLABORATORS</p> </i>
-    </div>
-
-    <div class="black-line"></div>
+    <div class="section-header-page text-black">Collaborators</div>
     <br><br>
     <div class="row">
 
         <div class="col-md-12 text-center partner-border vertical-align">
             <div class="col-sm-6 text-center">
-                <h1 style='font-size: 3vw; color: black'> Co-organizer</h1>
+                <h1 style='font-size: 3vw; color: black'>Co-organizer</h1>
             </div>
             <div class="col-sm-6">
                 <a href="https://en.grenoble-em.com/">
@@ -137,20 +172,13 @@ function auto_version($file)
         </div>
 
         <div class="col-md-12 text-center partner-border vertical-align">
-            <!-- <div class="col-sm-6 text-center">
-                <h1 style='font-size: 3vw; color: black'> Major Sponsor</h1>
-            </div> -->
             <div class="col-sm-12 text-center">
                 <img src="assets/images/logo/lrra.png" class="partner-logo partner-logo-mobile" style="height: 200px">
             </div>
         </div>
 
         <div class="col-md-12 text-center partner-border">
-            <!-- <div class="row text-center">
-                <h1 style='font-size: 2.5vw; color: black'> Sponsor Level 2</h1>
-            </div> -->
             <br>
-
             <div class="row">
                 <div style='display: block, margin: auto, text-align: center'>
                     <img src="assets/images/logo/logo-uga.jpg" class="partner-logo partner-logo-mobile" style="height: 100px">
@@ -209,24 +237,17 @@ function auto_version($file)
 </div>
 
 <div class="section">
-    <div class="text-center">
-        <i> <p style="font-size: 4vh"> THE VENUE</p> </i>
-    </div>
-    <div class="line">
+    <div class="section-header-page text-white">The venue</div>
 
-    </div>
     <div class="text-center">
-        <p>Maison MINATEC</p>
-        <p>3 Parvis Louis Néel, 38000 Grenoble, France</p>
+        <p>Maison MINATEC<br>
+        3 Parvis Louis Néel, 38000 Grenoble, France</p>
     </div>
     <br>
-    <!-- <div class="col-sm-12 text-center">
-        <img class="why-img" src="assets/images/splash/venue.png" />
-    </div> -->
     <div class="row">
         <div class="col-xs-6">
             <iframe class="why-map" src="https://maps.google.com/maps?width=720&amp;height=600&amp;hl=en&amp;q=3%20Parvis%20Louis%20N%C3%A9el%2C%2038000%20Grenoble%2C%20France+(Maison%20MINATEC)&amp;ie=UTF8&amp;t=&amp;z=14&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-                <a href="https://www.maps.ie/coordinates.html">find my coordinates</a>
+                <a href="https://www.maps.ie/coordinates.html">Find my coordinates</a>
             </iframe>
         </div>
         <div class="col-xs-6">
@@ -237,19 +258,10 @@ function auto_version($file)
 </div>
 
 <div class="section">
-    <div class="text-center">
-        <i> <p style="font-size: 4vh"> GET NOTIFIED</p> </i>
-    </div>
-
-    <div class="line">
-
-    </div>
+    <div class="section-header-page text-white">Get notified</div>
 
     <div class="text-center splash-logo-container">
-        <p>Information about registration coming soon!</p>
-        <p>
-        More information coming soon. Please click <a href='about.php'> here </a> to learn more about the MIT GSW.
-        </p>
+        <p>More information coming soon! Go <a href='about.php'>here</a> to learn more about MITGSW.</p>
     </div>
 
 </div>

@@ -17,14 +17,6 @@
 <body style="background-color: black">
 
 <div class="section text-center">
-    <div class="text-center">
-    <p style="padding: 2%" class="text-center"><i>Content Programming in Progress</i></p>
-
-        <!-- <i><h5> SUBJECT TO MINOR CHANGES</h5></i>
-        <h5> FOR MORE INFO CHECK OUT THE <a href='panels.php'>CONTENT PAGE</a></h5>
-        <h5> <a href='app.php'>Get the app for most updated info </a></h5> -->
-        <br>
-    </div>
 
     <div class="row text-center" style="margin: auto; width:85%">
 

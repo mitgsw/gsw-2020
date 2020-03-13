@@ -40,11 +40,12 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script> -->
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="
+    sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,400,400i,500,500i,600,700,800,900" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/2020_style.css">
     <link href="https://use.fontawesome.com/0b972b6cf8.css" media="all" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -72,14 +73,14 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-mobile" id="bs-example-navbar-collapse-1" style="right: 0">
             <ul class="nav navbar-nav navbar-right" id="navbarDropdown" >
-            <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
+            <li><a href="about.php">About<span class="sr-only">(current)</span></a></li>
             <li><a href="reg.php">Registration</a></li>
             <li><a href="comp.php">Competitions</a></li>
             <li><a href="speakers.php">Speakers</a></li>
             <li><a href="content.php">Content</a></li>
             <li><a href="agenda.php">Agenda</a></li>
             <li><a href="team.php">Team</a></li>
-            <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li>
+            <!-- <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li> -->
             <!-- <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li> -->
             </ul>
         </div><!-- /.navbar-collapse -->

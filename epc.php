@@ -17,8 +17,11 @@
 <body style="background-color: black">
 
 <div class="section">
+    <div class="alert alert-warning" role="alert">
+        We are <strong>no longer accepting</strong> applications for GSW competitions.
+    </div>    
 
-        <!-- <div class="section-header section-header-page" style="color: white">Startup Showcase</div> -->
+<!--         <div class="section-header section-header-page" style="color: white">Startup Showcase</div> -->
 
         <div class="row vertical-align comp-slogan-box">
             <div class="col-xs-3 text-center">
@@ -37,8 +40,8 @@
 
     <div class="row text-center">
         <a class="register-btn-large" style="text-decoration: none;" href="https://mit.co1.qualtrics.com/jfe/form/SV_4Ph3eoy0aLnOX5P?fbclid=IwAR3mZy3mnn6quniFePJ0UbTAQMW4coPGMqi1A0moyn_hR6xxYoX3sRUy_QQ">Apply Here</a>
-        <p>BY FRIDAY, 21st FEBRUARY 2020</p>
-        <p>Now acception applications in French!!!</p>
+        <!-- <p>BY FRIDAY, 21st FEBRUARY 2020</p> -->
+        <!-- <p>Now accepting applications in French!</p> -->
     </div>
 </div>
 

@@ -1,17 +1,17 @@
 <body>
 
 <div id="footer">
-    <br><br>
+    <br><br><br><br><br><br><br><br>
     <div class="row text-center" style='font-size: 15px'>
         <div class="row text-center">
-            <div class="col-md-offset-2 col-md-8">
-                <p style="font-family: 'Helvetica Neue Light'"> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</p>
-                <p style="font-family: 'Helvetica Neue Light'"> For more information, please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-contact@mit.edu"> gsw-contact@mit.edu</a>.</p>
+            <div class="col-md-offset-2 col-md-8 footer-text">
+                <div> Copyright &copy; 2011-2019. Massachusetts Institute of Technology. All Rights Reserved.</div>
+                <div> For more information, please contact <a style="color: white; text-decoration: underline" href="mailto:gsw-contact@mit.edu"> gsw-contact@mit.edu</a>.</div>
             </div>
         </div>
         <div class="row text-center">
             <div class="col-md-offset-2 col-md-8">
-                <div class="row">
+                <div class="row text-center">
                     <div class="col-xs-4 col-md-offset-1 col-md-2">
                         <a href="https://twitter.com/MITGSW"><span class="fa fa-twitter-square sm-icon"></span></a>
                     </div>

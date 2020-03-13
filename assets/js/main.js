@@ -22,15 +22,15 @@ function getSpeakers() {
         download: true,
         header: true,
         complete: function(results) {
-            console.log(results);
+            // console.log(results);
 
             var speakers = results['data']
             var rows = speakers.length
-            console.log(rows);
+            // console.log(rows);
 
             for (var i = 0; i < rows; i++) {
                 var currentSpeaker = speakers[i];
-                console.log(currentSpeaker);
+                // console.log(currentSpeaker);
 
                 var name = currentSpeaker['First Name'] + ' ' + currentSpeaker['Last Name'];
                 var first = currentSpeaker['First Name'].toLowerCase();
@@ -114,8 +114,8 @@ function getSpeakers() {
                     // $(modalMarkup).appendTo('#speaker-modals');
                     if (currentSpeaker['Keynote'] == 'Y') {
                         $(speakerSmallMarkup).appendTo('#keynote-section-expanded');
-                        console.log('KEYNOTE');
-                        console.log(speakerSmallMarkup);
+                        // console.log('KEYNOTE');
+                        // console.log(speakerSmallMarkup);
                     } else if (currentSpeaker['Keynote'] == 'P') {
                         $(speakerSmallMarkup).appendTo('#plenary-section-expanded');
                     } else {
@@ -136,11 +136,11 @@ function getTeam() {
         download: true,
         header: true,
         complete: function(results) {
-            console.log(results);
+            // console.log(results);
 
             var speakers = results['data']
             var rows = speakers.length
-            console.log(rows);
+            // console.log(rows);
 
             for (var i = 0; i < rows; i++) {
                 var currentSpeaker = speakers[i];
@@ -148,8 +148,8 @@ function getTeam() {
 
                 var name = currentSpeaker['First Name'] + " " + currentSpeaker['Last Name'];
                 var first = currentSpeaker['First Name'].toLowerCase();
-                console.log(name);
-                console.log(first);
+                // console.log(name);
+                // console.log(first);
 
                 var anchor = name.replace(/ /g, "_");
 
@@ -193,7 +193,7 @@ function getTeam() {
                 //         '</div>'
                 // }
 
-                console.log(teamSmallMarkup);
+                // console.log(teamSmallMarkup);
 
                 // if (position == 'Managing Director') {
                 //     $(teamSmallMarkup).appendTo('#directors-expanded');

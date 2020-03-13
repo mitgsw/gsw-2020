@@ -17,6 +17,9 @@
 <body style="background-color: black">
 
 <div class="section">
+    <div class="alert alert-warning" role="alert">
+        We are <strong>no longer accepting</strong> applications for GSW competitions.
+    </div>
 
         <!-- <div class="section-header section-header-page" style="color: white">Startup Showcase</div> -->
 

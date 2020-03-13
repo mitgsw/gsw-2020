@@ -99,7 +99,7 @@ h6 {
 h1 {
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.8px;
     font-family: "Helvetica Neue Condensed Black", sans-serif;
     color: black;
 }
@@ -107,7 +107,7 @@ h1 {
 h2 {
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    /*letter-spacing: 0.5px;*/
     font-size: 1.9em;
     /* font-family: "Helvetica Neue Condensed Bold", sans-serif; */
     font-family: "Helvetica Neue Bold", sans-serif;
@@ -117,7 +117,7 @@ h2 {
 h3 {
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    /*letter-spacing: 0.5px;*/
     font-family: "Helvetica Neue Bold", sans-serif;
     color: black;
 }
@@ -125,7 +125,7 @@ h3 {
 h4 {
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    /*letter-spacing: 0.5px;*/
     font-family: "Helvetica Neue Thin", sans-serif;
     color: black;
 }
@@ -133,7 +133,7 @@ h4 {
 h5 {
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    /*letter-spacing: 0.5px;*/
     font-family: "Helvetica Neue Medium", sans-serif;
     color: black;
 }
@@ -141,35 +141,37 @@ h5 {
 h6 {
     font-weight: 900;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    /*letter-spacing: 0.5px;*/
     font-family: "Helvetica Neue Ultra Light", sans-serif;
     color: black;
 }
 
 p {
     font-weight: 200;
+    font-size: 1.3em;
     /* text-transform: uppercase; */
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
     font-family: "Helvetica Neue", sans-serif;
     color: white;
+    text-align: left;
 }
 
 
-/* a {
-    color: #818181;
+ a {
+    color: rgb(255, 215, 13);
     font-weight: bolder;
 }
 
 a:hover {
-    text-decoration: none;
-    color: #444343;
-} */
+    text-decoration: underline;
+    color: rgb(255, 223, 59);
+} 
 
 
 /* SPLASH PAGE CSS */
 
 .splash-pic-container {
-    padding: 20px;
+    /*padding: 20px;*/
     /* background-image: url("../images/splash/background_img.png"); */
     background-color: black;
 }
@@ -292,6 +294,34 @@ p {
     margin-bottom: 20px;
 }
 
+.header {
+    font-size: 2em;
+    font-family: "Helvetica Neue Bold";
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: white;
+    padding: 2em 0em;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+    margin-bottom: 2em;
+}
+
 @media only screen and (min-width: 480px) {
     .section-header {
         font-size: 1.5em;
@@ -320,8 +350,7 @@ p {
 
 .section-header-page {
     border-bottom: 2px solid rgba(255, 255, 255, 0.8);
-    padding-bottom: 5px;
-    color: #0e1e58;
+    padding-top: 2em;
     font-size: 1.9em;
     /* font-family: "Helvetica Neue Condensed Bold", sans-serif; */
     font-family: "Helvetica Neue Bold", sans-serif;
@@ -342,9 +371,6 @@ p {
     background-size: cover;
     background-position: center;
     background-repeat: none;
-    /* background-origin: padding-box;
-    padding: 20px; */
-    /* padding-left: 5%; */
     padding: 20px;
 }
 
@@ -972,6 +998,8 @@ p {
 
 .comp-title h2 {
     text-transform: initial;
+    font-weight: 500 !important;
+    font-family: "Helvetica Neue";
 }
 
 .comp-info {
@@ -994,7 +1022,6 @@ p {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
     grid-gap: 25px;
-    grid-auto-rows: 100px;
     grid-template-areas: "a a a b b b c c c" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f";
 }
 
@@ -1010,43 +1037,28 @@ p {
     grid-template-areas: "a a a b b b c c c" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f" "d d d e e e f f f";
 }
 
-.item4:hover,
-.item5:hover,
-.item6:hover {
+.comp-button {
+    padding: 15px;
+}
+
+.comp-button:hover {
     border: 0.25px solid white;
+    justify-self: center;
 }
 
 .item1 {
     grid-area: a;
-    justify-self: center;
 }
 
 .item2 {
     grid-area: b;
-    /* justify-self: start; */
-    justify-self: center;
 }
 
 .item3 {
     grid-area: c;
-    /* justify-self: end; */
-    justify-self: center;
 }
 
-.item4 {
-    grid-area: d;
-    justify-self: center;
-}
 
-.item5 {
-    grid-area: e;
-    justify-self: center;
-}
-
-.item6 {
-    grid-area: f;
-    justify-self: center;
-}
 
 @media only screen and (max-width: 650px) {
     .comp-title h2 {
@@ -1160,18 +1172,9 @@ p {
 
 .competition-slogan {
     font-size: 1.25em;
-    /* font-family: "Helvetica Neue Condensed Black"; */
     text-transform: initial;
 }
 
-
-/* .comp-slogan-box {
-    background-color: white;
-    opacity: 20%;
-}
-.comp-slogan-box p {
-    color: black;
-} */
 
 .vertical-align {
     display: flex;
@@ -1222,7 +1225,7 @@ p {
     color: #0e1e58;
     text-transform: uppercase;
     font-size: 1em;
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
     font-weight: 700;
     margin-bottom: 30px;
 }
@@ -1236,7 +1239,7 @@ p {
     margin-bottom: 20px;
     font-size: 1em;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
 }
 
 .watchText {
@@ -2367,4 +2370,115 @@ p {
 .white>p>a:hover {
     opacity: 0.8;
     text-decoration: none;
+}
+
+
+
+
+
+/* announcements and scheduling update */
+.alert-warning {
+    color: white;
+    background-color: rgba(255, 223, 59,0.3);
+    border-color: rgba(255, 223, 59,0.3);
+}
+
+#footer {
+    margin-top: 3em;
+}
+
+.modale:before {
+  content: "";
+  display: none;
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+}
+.opened:before {
+  display: block;
+}
+.opened .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  transform: translate(0, 0);
+  top: 20%;
+}
+.modal-dialog {
+    background: #fefefe;
+    border: #333333 solid 0px;
+    border-radius: 0px;
+    /* margin-left: -200px; */
+    text-align: center;
+    position: fixed;
+    left: 25vw;
+    top: -100%;
+    z-index: 99;
+    width: 50vw;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+    -webkit-transform: translate(0, -500%);
+    -ms-transform: translate(0, -500%);
+    transform: translate(0, -500%);
+    -webkit-transition: -webkit-transform 0.3s ease-out;
+    -moz-transition: -moz-transform 0.3s ease-out;
+    -o-transition: -o-transform 0.3s ease-out;
+    transition: transform 0.3s ease-out;
+    max-height: 50vh;
+    overflow-y: scroll;
+}
+.modal-body {
+    padding: 20px;
+    color: black;
+    font-size: 1.2em;
+    text-align: left;
+    margin: 0px;
+    width: 100%;
+}
+.modal-header,
+.modal-footer {
+  padding: 10px 20px;
+}
+.modal-footer {
+    background-color: white;
+    height: 40px;
+    position: fixed;
+    bottom: 40px;
+    width: 100%;
+    margin-left: -20px;
+    padding: 20px;
+    border-top: #eeeeee solid 1px;
+}
+.modal-header {
+  border-bottom: #eeeeee solid 1px;
+  font-size: 1.8em;
+  font-family: "Helvetica Neue Bold", sans-serif;
+  color: black;
+}
+.btn-close {
+    float: right;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    padding: 10px;
+    margin-right: 10px;
+    color: black;
+}
+
+.btn-continue {
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    position:fixed;
+    right: 20px;
+    font-size: 1em;
+}
+
+.btn-continue:hover {
+    text-decoration: none;
+}
+.urgent {
+    color: rgb(255, 48, 97);
 }
