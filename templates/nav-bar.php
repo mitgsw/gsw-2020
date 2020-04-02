@@ -90,9 +90,21 @@
                     <a class="dropdown-item" style="color: white; font-family: Helvetic Neue;" href="epc2.php">EPC 2nd Place</a>
                 </div>
             </li> 
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Agenda <span class="caret"></span>
+                </a>
+                <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a style="color: white; font-family: Helvetic Neue; " href="content.php">Content</a>
+                    <div class="dropdown-divider"></div>
+                    <a style="color: white; font-family: Helvetic Neue; " href="agenda.php">Schedule</a>
+                </div>
+            </li> 
+
             <li><a href="speakers.php">Speakers</a></li>
-            <li><a href="content.php">Content</a></li>
-            <li><a href="agenda.php">Agenda</a></li>
+            <!-- <li><a href="content.php">Content</a></li>
+            <li><a href="agenda.php">Agenda</a></li> -->
             <li><a href="team.php">Team</a></li>
             
             <!-- <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li> -->

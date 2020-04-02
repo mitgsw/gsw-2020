@@ -56,7 +56,7 @@ body {
     margin: 0px;
     padding: 0px;
     width: 100vw;
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     display: inline-block;
     background-image: url("../../images/launch/launch_background_short.png");
     background-size: cover;
@@ -866,6 +866,7 @@ p {
 
 .dropdown-item {
     color: white;
+    font-family: "Helvetica Neue";
 }
 
 .navbar-nav>li>.dropdown-menu {
@@ -877,6 +878,7 @@ p {
 .dropdown-menu a:focus {
     color: #fff;
     font-weight: 600;
+    font-family: "Helvetica Neue";
 }
 
 @media (max-width: 767px) {
