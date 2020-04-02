@@ -76,10 +76,25 @@
             <li><a href="about.php">ABOUT<span class="sr-only">(current)</span></a></li>
             <li><a href="http://gsw-mit-edu2020.inviteo.fr/">Registration</a></li>
             <li><a href="comp.php">Competitions</a></li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" style="color: red" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Competition Winners <span class="caret"></span>
+                </a>
+                <div id="competitionMenu" class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" style="color: white; font-family: Helvetic Neue; " href="sssc1.php">SSSC 1st Place</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" style="color: white; font-family: Helvetic Neue;" href="sssc2.php">SSSC 2nd Place</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" style="color: white; font-family: Helvetic Neue;" href="epc1.php">EPC 1st Place</a>
+                    <div class="dropdown-divider"></div>
+                    <a class="dropdown-item" style="color: white; font-family: Helvetic Neue;" href="epc2.php">EPC 2nd Place</a>
+                </div>
+            </li> 
             <li><a href="speakers.php">Speakers</a></li>
             <li><a href="content.php">Content</a></li>
             <li><a href="agenda.php">Agenda</a></li>
             <li><a href="team.php">Team</a></li>
+            
             <!-- <li><a href="https://gsw.mit.edu/2019/">2019 CONFERENCE SITE</a></li> -->
             <!-- <li><a href="https://en.grenoble-em.com/">Grenoble Ecole de Management</a></li> -->
             </ul>
