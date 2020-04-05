@@ -19,11 +19,11 @@
 <body style="background-color: black">
 
 <div class="section">
-    <div class="header">We are happy to announce the Second Place Winners of the 2020 MIT Global Startup Workshop Sustainable Society Startup Challenge </div>
+    <div class="header">We are pleased to announce the Second Place Winners of the 2020 MIT Global Startup Workshop Sustainable Society Startup Challenge </div>
     
     <br><br><br>
     <div class="row comp-reel text-center">
-        <img src="assets/images/comp/lan.png">
+        <img src="assets/images/comp/lan-min.png">
     </div>
 
     <div clas="section">
@@ -138,6 +138,9 @@ Yohann Chatillon (PhD) – Li-ion Battery R&D & Manufacturing Lead Developer</i>
 </div>
 
 
+<div class="section text-center">
+<p>Watch all the pitches from MIT GSW Competition Finalists on our <a href="https://www.youtube.com/user/MITGSW">YouTube channel</a>.</p>
+</div>
 
 
 

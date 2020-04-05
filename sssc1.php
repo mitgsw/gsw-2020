@@ -19,7 +19,7 @@
 <body style="background-color: black">
 
 <div class="section">
-    <div class="header">We are happy to announce the First Place Winners of the 2020 MIT Global Startup Workshop Sustainable Society Startup Challenge </div>
+    <div class="header">We are pleased to announce the First Place Winners of the 2020 MIT Global Startup Workshop Sustainable Society Startup Challenge </div>
     
     <br><br><br>
     <div class="row comp-reel text-center">
@@ -92,6 +92,10 @@
     <h5>How has MIT GSW helped you in advancing in your goals?</h5>
 
     <p>The MIT Global Startup Workshop has identified innovative international startups for over 20 years and has been endorsed by world class leaders. BeFC hopes that such a prestigious competition will increase awareness of our technology and provide future opportunities for growth, particularly with the recruitment of talented individuals.</p>
+</div>
+
+<div class="section text-center">
+<p>Watch all the pitches from MIT GSW Competition Finalists on our <a href="https://www.youtube.com/user/MITGSW">YouTube channel</a>.</p>
 </div>
 
 

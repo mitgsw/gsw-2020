@@ -1146,6 +1146,18 @@ p {
     align-items: center;
 }
 
+.comp-img {
+    height: 90vh;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+.comp-img-small {
+    height: 50vh;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
 .comp-reel h6 {
     padding-top: 30%;
     font-size: 2em;

@@ -19,14 +19,16 @@
 <body style="background-color: black">
 
 <div class="section">
-    <div class="header">We are happy to announce the First Place Winners of the 2020 MIT Global Startup Workshop Elevator Pitch Challenge. </div>
+    <div class="header">We are pleased to announce the First Place Winners of the 2020 MIT Global Startup Workshop Elevator Pitch Challenge. </div>
     
     <br><br><br>
-    <div class="row comp-reel text-center">
-        <img src="assets/images/comp/sal.jpg">
-    </div>
+    <!-- <div class="row comp-reel text-center">
+        
+    </div> -->
 
     <div clas="section">
+   
+    <img src="assets/images/comp/sal.jpg" align="left" class="comp-img">
     <h1> Seeingrobot</h1>
     <p><b>Core Team</b></p>
     <p><i>Rida Bourji – Founder & CEO </br>
@@ -74,6 +76,9 @@
     </p>
 </div>
 
+<div class="section text-center">
+<p>Watch all the pitches from MIT GSW Competition Finalists on our <a href="https://www.youtube.com/user/MITGSW">YouTube channel</a>.</p>
+</div>
 
 
 
