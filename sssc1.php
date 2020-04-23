@@ -94,7 +94,7 @@
     <p>The MIT Global Startup Workshop has identified innovative international startups for over 20 years and has been endorsed by world class leaders. BeFC hopes that such a prestigious competition will increase awareness of our technology and provide future opportunities for growth, particularly with the recruitment of talented individuals.</p>
 </div>
 
-<div class="section text-center">
+<div class="section">
 <p>Watch all the pitches from MIT GSW Competition Finalists on our <a href="https://www.youtube.com/user/MITGSW">YouTube channel</a>.</p>
 </div>
 

@@ -17,7 +17,10 @@
 <body style="background-color: black">
 
 <div class="section">
-    <p class="competition-slogan" style="padding: 2%">
+    <p>All of the confirmed speakers for the MIT Global Startup Workshop (GSW) 2020 in-person event can be found below.</p>
+    <p>Although we were not able to have the conference on March 23 & 24 in Grenoble, France, as planned, we anticipate sharing selected content related to MIT GSW 2020 on our <a href="https://www.youtube.com/user/MITGSW"> Youtube Channel </a>as soon as we can.</p>
+    <br>
+    <p class="competition-slogan">
     MIT GSW is proud to host a diverse range of speakers from Cambridge, Europe and around 
     the world. We're excited to have these world-class individuals share their experiences 
     with us! Click on each speaker to learn more about their background and accomplishments.

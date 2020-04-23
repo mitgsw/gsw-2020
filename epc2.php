@@ -96,7 +96,7 @@
 </div>
 
 
-<div class="section text-center">
+<div class="section">
 <p>Watch all the pitches from MIT GSW Competition Finalists on our <a href="https://www.youtube.com/user/MITGSW">YouTube channel</a>.</p>
 </div>
 

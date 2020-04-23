@@ -18,6 +18,12 @@
 
 <div class="section text-center">
 
+    <div class="row">
+    <p>The schedule planned for the MIT Global Startup Workshop (GSW) 2020 in-person event can be found below. </p>
+    <p>Although we were not able to have the conference on March 23 & 24 in Grenoble, France, as planned, we anticipate sharing selected content related to MIT GSW 2020 on our <a href="https://www.youtube.com/user/MITGSW"> Youtube Channel </a>as soon as we can.</p>
+
+    </div>
+
     <div class="row text-center" style="margin: auto; width:85%">
 
         <div class="col-sm-12 agenda-header">

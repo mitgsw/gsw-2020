@@ -36,7 +36,7 @@ function auto_version($file)
 
 
 
-<div class="modale opened" aria-hidden="true">
+<!-- <div class="modale opened" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-header">
       <div>Important update</div>
@@ -55,7 +55,7 @@ function auto_version($file)
         </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <script src="assets/js/bootstrap.min.js"></script>
@@ -86,8 +86,8 @@ function auto_version($file)
             <i><h1>THE MIT GLOBAL STARTUP WORKSHOP</h1></i>
             <br><br>
             <img src="assets/images/splash/in_the_alps.png"/>
-            <h5 style="color: black"> March 23 & 24, 2020</h5>
-            <i><h4 style="color: black"> Grenoble, France</h4></i>
+            <h5 style="color: black"> ONLINE & AROUND THE WORLD</h5>
+            <!-- <i><h4 style="color: black"> Grenoble, France</h4></i> -->
         </div>
 
     </div>
@@ -110,49 +110,6 @@ function auto_version($file)
     
 </div>
 
-
-
-
-
-
-
-<div class="section">
-    <div class="section-header-page text-white">Our competitions</div>
-    <br>
-
-    <div class="comp-wrapper-main">
-        <div class="comp-button item1">
-            <a href="showcase.php">
-                <div class="comp-title text-center">
-                    <h2>Startup Showcase</h2>
-                </div>
-                <div class="comp-image text-center">
-                        <img src="assets/images/icons/Icons-Startup.png">
-                </div>
-            </a>
-        </div>
-        <div class="comp-button item2">
-            <a href="epc.php">
-                <div class="comp-title text-center">
-                    <h2>Elevator Pitch Competition</h2>
-                </div>
-                <div class="comp-image text-center">
-                    <img src="assets/images/icons/Icons-Elevator-Pitch.png">
-                </div>
-            </a>
-        </div>
-        <div class="comp-button item3">
-            <a href="sssc.php">
-                <div class="comp-title text-center">
-                    <h2>Sustainable Society Startup Challenge</h2>
-                </div>
-                <div class="comp-image text-center">
-                    <img src="assets/images/icons/Icons-Sustainable.png">
-                </div>
-            </a>
-        </div>
-    </div>
-</div>
 
 <div class="section white-section">
     

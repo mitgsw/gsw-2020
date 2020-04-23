@@ -69,7 +69,7 @@ Yohann Chatillon (PhD) – Li-ion Battery R&D & Manufacturing Lead Developer</i>
 
     </p><p>    Our products will soon integrate a second-life battery from e-bikes. 
 
-    </p><p>Lancey is a 3-year-old company and relies on a young and enthusiastic team of 30 people based in Grenoble (Fr) and Montréal (Ca).  
+    </p><p>Lancey is a 3-year-old company and relies on a young and enthusiastic team of 30 people based in Grenoble (Fr) and Montréal (Ca). Lancey Energy Storage received financial support from the EasyTech program of the IRT Nanoelec in 2019. Two communications modules (Wi-FI and KNX) were developed in the frame of this cooperation. 
 
     </p><p>We have already installed 1,000 units in France, with 10 B2B clients in different regions of France and in different conditions (house/flat, new/renovation, with or without solar panels, tertiary building VS residential). The solution has proven significant energy bill reductions (up 50%), with a quick return on investment. 
     </p>
@@ -138,7 +138,7 @@ Yohann Chatillon (PhD) – Li-ion Battery R&D & Manufacturing Lead Developer</i>
 </div>
 
 
-<div class="section text-center">
+<div class="section">
 <p>Watch all the pitches from MIT GSW Competition Finalists on our <a href="https://www.youtube.com/user/MITGSW">YouTube channel</a>.</p>
 </div>
 
